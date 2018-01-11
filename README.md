@@ -1,4 +1,9 @@
-## 1
+# Le basculement
+
+Cette fanfiction de Star Wars commence après la mort du Grand Snoke et le combat de Kylo Ren et Rey contre la garde prétorienne dans le film _The Last Jedi_.  
+Rey, qui raconte l'histoire, est repartie et a rejoint Chewie à bord du Faucon Millenium.
+
+## La bataille de Creit
 Chewie et moi, à bord du Faucon Millenium, arrivions sur la planète Creit. La bataille faisait rage. Les chasseurs résistants faisaient tout leur possible pour éliminer une grosse machine qui, apparemment, allait détruire la porte principale de la grotte où était située la base.  
 Chewie et moi décidâmes alors de venir en aide à tous ces pilotes héroïques. Nous fonçâmes vers les chasseurs adverses. Après quelques tirs qui en tuèrent plusieurs, nous repartîmes afin de les attirer loin du champ de bataille. Ils nous suivirent. Nous sommes passés par plusieurs tunnels et à la fin, en sortant, nous les avions tous détruits. Certains avaient percuté des parois, des stalactiques, et d'autres avaient raté des virages.  
 Nous sommes remontés en hauteur pour voir où en était la bataille. Et là, qu'avons-nous vu ? Les chasseurs résistants avaient disparu ou gisaient sur le sol. Et les chars adverses commençaient apparemment à avancer. Ils se rapprochaient de plus en plus de la porte de la grotte. Tous les résistants s'y étaient réfugiés, à part certains qui n'avaient pas pu l'atteindre et s'étaient réfugiés dans les tranchées.
