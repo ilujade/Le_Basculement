@@ -6,7 +6,7 @@ Rey, qui raconte l'histoire, est repartie et a rejoint Chewie à bord du Faucon 
 ## La bataille de Creit
 Chewie et moi, à bord du Faucon Millenium, arrivions sur la planète Creit. La bataille faisait rage. Les chasseurs résistants faisaient tout leur possible pour éliminer une grosse machine qui, apparemment, allait détruire la porte principale de la grotte où était située la base.  
 Chewie et moi décidâmes alors de venir en aide à tous ces pilotes héroïques. Nous fonçâmes vers les chasseurs adverses. Après quelques tirs qui en tuèrent plusieurs, nous repartîmes afin de les attirer loin du champ de bataille. Ils nous suivirent. Nous sommes passés par plusieurs tunnels et à la fin, en sortant, nous les avions tous détruits. Certains avaient percuté des parois, des stalactiques, et d'autres avaient raté des virages.  
-Nous sommes remontés en hauteur pour voir où en était la bataille. Et là, qu'avons-nous vu ? Les chasseurs résistants avaient disparu ou gisaient sur le sol. Et les chars adverses commençaient apparemment à avancer. Ils se rapprochaient de plus en plus de la porte de la grotte. Tous les résistants s'y étaient réfugiés, à part certains qui n'avaient pas pu l'atteindre et s'étaient réfugiés dans les tranchées.
+Nous sommes remontés en hauteur pour voir où en était la bataille. Et là, qu'avons-nous vu ? Les chasseurs résistants avaient disparu ou gisaient sur le sol. Et les chars adverses commençaient apparemment à avancer. Ils se rapprochaient de plus en plus de la porte de la grotte. Tous les résistants s'y étaient réfugiés, à part certains qui n'avaient pas pu l'atteindre et s'étaient cachés dans les tranchées.
 
 A ce moment-là, je me suis dis que non, tout ne pouvait pas être terminé. Il y avait encore de l'espoir. L'espoir de sauver tout le monde. Les Résistants. Et Ben. Ben qui pouvait à nouveau revenir du bon côté.  
 J'ai alors pris une décision. Une décision qui pouvait changer l'avenir de la galaxie. Notre Faucon Millenium partit vers les lignes ennemies et il s'approcha du vaisseau où était Ben et les chefs de son armée. Nous reçûmes plusieurs tirs. Mais, au lieu de riposter, nous envoyâmes un message radio :  
@@ -17,7 +17,7 @@ Nous arrivions à la hauteur du vaisseau. Ben et moi échangîmes un regard à t
 
 J'ai coupé le micro et fis signe à Chewie de repartir. Nous descendîmes à mi-distance entre la grande porte et les premières lignes ennemies.
 Je sentais le conflit en Ben. J'ai essayé de lui transmettre un message en le pensant intensément : _"Ben, viens je t'en supplie ! Ben, de toute façon, si tu refuse un tel défi, ton honneur sera sali. Viens vite ! Viens montrer à tes hommes que tu es un vrai chef ! Viens te battre !"_  
-J'ai eu l'impression qu'il avait senti mon appel car je vis soudain le vaisseau descendre et atterrir. Il descendit, assez en colère et s'approcha de moi, à une dizaines de mètres.  
+J'ai eu l'impression qu'il avait senti mon appel car je vis soudain le vaisseau descendre et atterrir. Il sortit, assez en colère et s'approcha de moi, à une dizaines de mètres.  
 
 \- Rey, comment oses-tu dire ça ? Comment oses-tu me défier ? Regarde, tu n'as même plus de sabre laser et tu oses me défier ainsi devant tout le monde ?! Tu as si envie de te ridiculiser ? cria-t-il.  
 \- Ben, arrête tout ça. C'est pas ce que tu veux, lui répondis-je calmement. Toi, tu veux arrêter la guerre.  
@@ -51,10 +51,10 @@ Mais soudain, Ben se releva et éteignit son sabre.
 \- Rey ! Je t'ai déjà dit ! Il faut en finir avec tous ces conflits. Rejoins-moi et unissons nos forces pour installer la paix dans la galaxie et éteindre tous ces conflits !  
 \- Arrête de te répéter !
 
-Là, j'ai senti que je tenais le destin de la galaxie entre mes mains. J'ai senti que je n'avais pas le choix. Ce n'était pas au sabre-laser que je pourrais le ramener du bon côté. Ce n'était pas au sabre-laser que je pourrais ramener l'ordre et la paix dans la galaxie. Je ne voulais pas passer du côté obscur, mais me ranger à ses côtés était la seule solution pour le faire revenir du côté lumineux. J'ai baissé mon arme et me suis rapprochée. Il me tendit alors la main et me demanda, sur un ton très implorant :  
+Là, j'ai senti que je tenais le destin de la galaxie entre mes mains. J'ai senti que je n'avais pas le choix. Ce n'était pas au sabre-laser que je pourrais le ramener du bon côté. Ce n'était pas au sabre-laser que je pourrais ramener l'ordre et la paix dans la galaxie. Je ne voulais pas passer du côté obscur, mais me ranger à ses côtés était la seule solution pour le faire revenir vers la lumière. J'ai baissé mon arme et me suis rapprochée. Il me tendit alors la main et me demanda, sur un ton très implorant :  
 \- Rey, s'il te plaît, rejoins-moi !  
 Doucement, j'ai levé ma main vers la sienne. Nos deux mains se rapprochèrent et le bout de nos doigts finirent par se toucher. Il me fixa dans les yeux, très ému.  
-\- Rey, Merci. Merci beaucoup.
+\- Rey, merci. Merci beaucoup.
 
 Je sentais le conflit intérieur qui le rongeait. Je sentais qu'il était toujours divisé en lui. Je ne regrettais rien.  
 \- Ben, écoute-moi. Si tu veux que je reste à tes côtés, que je devienne ton alliée, il va falloir que tu me jures certaines choses.  
@@ -63,51 +63,113 @@ Je sentais le conflit intérieur qui le rongeait. Je sentais qu'il était toujou
 
 Je le vis, face au dilemme. Soit il renonçait à tuer les Résistants, soit je restais dans les rangs de ses ennemis. Il reprit la parole, en me regardant droit dans les yeux.  
 \- Rey, j'accepte de faire ce serment, mais en échange tu dois aussi m'en faire un.  
-\- Ben, quel est ce serment ? lui répondis-je, inquiète, en me demandant ce qu'il allait exiger de moi.  
+\- Lequel ? lui répondis-je, inquiète, en me demandant ce qu'il allait exiger de moi.  
 \- Rey, jure-moi aussi par la Force que tu n'iras plus combattre auprès des Résistants et que tu resteras à côté de moi, que tu soutiendras l'ordre. Et ce quoi qu'il arrive.  
 
 A ce moment-là, j'ai su que je ne pourrais plus revenir en arrière. Plus jamais.  
 \- Très bien, Ben. J'accepte, décidai-je, la gorge serrée.  
-\- Rey, commença-t-il sur un ton grave, je te jure par la Force sue plus jamais je ne tuerai d'innocents, ni de Résistants. Que la Force me quitte, que la vie me quitte si je manque à ma parole. Mais je ne suis pas naïf, Rey : mon serment ne sera valable qu'une fois le tien prononcé.  
-\- Ben, je te jure par la Force que plus jamais je ne combattrai auprès des Résistants et que je serai à tes côtés quoi qu'il arrive, prononçais, tendue. Que la Force me quitte, que la vie me quitte à tout jamais si je manque à ma parole. Et que si l'un de nous meurt, alors ces serments... tiendront toujours, finis-je après un long silence de réflexion.
+\- Rey, commença-t-il sur un ton grave, je te jure par la Force que plus jamais je ne tuerai d'innocents, ni de Résistants. Que la Force me quitte, que la vie me quitte si je manque à ma parole. Mais je ne suis pas naïf, Rey : mon serment ne sera valable qu'une fois le tien prononcé.  
+\- Ben, je te jure par la Force que plus jamais je ne combattrai auprès des Résistants et que je serai à tes côtés quoi qu'il arrive, prononçais-je, tendue. Que la Force me quitte, que la vie me quitte à tout jamais si je manque à ma parole. Et que si l'un de nous meurt, alors ces serments... tiendront toujours, finis-je après un long silence de réflexion.
 
 Là, il fallait que je fasse un choix. J'ai hésité mais me suis dit que mon choix était le bon. Il fallait que le serment tienne coûte que coûte, quoi qu'il arrive. Dans le cas contraire, si Ben mourrait, je pourrai retourner auprès des Résistants, mais si c'était moi qui mourrais en premier, alors lui pourrait recommencer à tuer. Dans le cas contraire, celui que j'ai choisi, c'était différent : si je mourrais, Ben ne pourrait pas recommencer à tuer et si lui mourrait je pourrais toujours essayer de ramener la paix et l'ordre dans la galaxie et faire union avec ceux qui la veulent aussi mais qui sont dans l'autre camp.  
 Ben relâcha son sabre-laser et m'invita à le suivre en me tendant la main.  
 
-Me dirigeant vers le vaisseau, j'entendais derrière moi les cris désespérés des Résistants qui ne comprenaient pas mon choix. Le plus déchirant fut celui de Leia, elle qui espérait tant voir son fils revenir dans le côté lumineux, elle qui avait placé en moi tout son espoir pour rétablir la paix me voyait partir moi aussi. Mais je ne regrettais rien. Et je ne me suis pas retournée.  
+Me dirigeant vers le vaisseau, j'entendais derrière moi les cris désespérés des Résistants qui ne comprenaient pas ma décision. Le plus déchirant fut celui de Leia, elle qui espérait tant voir son fils revenir dans le côté lumineux, elle qui avait placé en moi tout son espoir pour rétablir la paix me voyait partir moi aussi. Mais je ne regrettais rien. Et je ne me suis pas retournée.  
 Lorsque nous somme arrivés devant la porte latérale du vaisseau, j'ai jeté un vif regard en direction la porte de la grotte. Je vis que les Résistants étaient à nouveaux sortis, prêts à reprendre le combat même si je n'étais plus à leurs côtés. Je me suis alors tournée vers Ben qui était à ma gauche.  
 \- Ben, que vas-tu faire maintenant ?  
 \- Rey, je t'ai déjà dit, il faut en finir avec tout ça.
 
-Sur un ton sec et autoritaire, il appela un général. Je me suis tournée et j'ai vu un homme méprisant sortir du vaisseau. C'était l'homme que j'avais vu à côté de Ben lorsque j'ai lancer le défi.  
+Sur un ton sec et autoritaire, il appela un général. Je me suis tournée et j'ai vu un homme méprisant sortir du vaisseau. C'était l'homme que j'avais vu à côté de Ben lorsque j'ai lancé le défi.  
 \- Oui, Suprême Leader ? demanda-t-il sèchement.  
 \- Général Hux ! Il faut en finir une bonne fois pour toute avec ces Résistants ! Dites à vos hommes d'avancer !
 
-Je n'arrivais pas à croire ce que j'avais entendu. Mais les chars commençaient bien à redémarrer. J'ai tourné la tête vers Ben, stupéfaite.  
+Je n'arrivais pas à croire ce que je venais d'entendre. Mais les chars commençaient bien à redémarrer. J'ai tourné la tête vers Ben, stupéfaite.  
 \- Ben, qu'est-ce que ça signifie ? Tu viens de me ju...  
 \- Tais-toi ! me fit-il avec un regard très noir.
 
 Je ne savais plus que faire. J'entendais les chars avancer et avais fait le serment de ne pas retourner là-bas.  
 Soudain, je compris. Ben avait déceler une faille dans son serment : il avait juré de ne plus tuer, mais pas de ne plus en donner l'ordre. Alors, comprenant que dans le mien aussi il y avait une faille, je me suis retournée et ai couru droit vers les Résistants.  
 \- Rey ! hurla Ben. Rey, que fais-tu ? Reviens !  
-Il courut derrière moi mais les Résistants, me voyant revenir, reprirent espoir et tirèrent alors dans sa direction. Il dût s'arrêter. Il fit aussitôt comprendre à son général de cesser les tirs. Il ne voulait pas me toucher. Alors, me rapprochant des premières lignes résistantes, je voyais mes amis courir vers moi. Une fois parmi eux, je leur fis signe de ne pas crier afin de pouvoir me dissimuler dans leurs rangs. Je me suis baissée et ai couru un peu dans tous les sens, afin que Ben ne sache vraiment où j'étais. Ainsi, il ne pouvait pas ordonner à ses hommes de tirer sur tous les Résistants à l'exception de ceux qui étaient proches de moi. Ben continuait de m'appeler. Je me taisais. Mais son ton se faisait de plus en plus déchirant et je commençais à sentir de la haine dans ses paroles, de la frustration. Il se sentait trahi et même je crois qu'il commençait à avoir que, manquant à ma parole, j'étais morte.  
+Il courut derrière moi mais les Résistants, me voyant revenir, reprirent espoir et tirèrent alors dans sa direction. Il dût s'arrêter. Il fit aussitôt comprendre à son général de cesser les tirs. Il ne voulait pas me toucher. Alors, me rapprochant des premières lignes résistantes, je voyais mes amis courir vers moi. Une fois parmi eux, je leur fis signe de ne pas crier afin de pouvoir me dissimuler dans leurs rangs. Je me suis baissée et ai couru un peu dans tous les sens, afin que Ben ne sache où j'étais. Ainsi, il ne pouvait pas ordonner à ses hommes de tirer sur tous les Résistants à l'exception de ceux qui étaient proches de moi. Ben continuait de m'appeler. Je me taisais. Mais son ton se faisait de plus en plus déchirant et je commençais à sentir de la haine dans ses paroles, de la frustration. Il se sentait trahi et même je crois qu'il commençait à avoir peur que, manquant à ma parole, j'étais morte.  
 Je me suis alors relevée et lui ai parlé.  
 \- Je suis ici Ben !  
 \- Où ça ? Avance ! hurla-t-il.
 
-J'ai commencé à m'avancer et il put me repérer. Alors, avec un geste des bras il écarta tous les Résistants sur mon passage et vint vers moi. J'ai continué de marcher vers lui. J'ai à nouveau entendu les Résistants crier. Mais là, il s'agissait de cris d'encouragement, de cris qui me poussaient à le défier une nouvelle fois. Mais au contraire j'ai continué d'avancer vers Ben et je suis arrivée devant lui.
-
+J'ai commencé à m'avancer et il put me repérer. Alors, avec un geste des bras il écarta tous les Résistants sur mon passage et vint vers moi. J'ai continué de marcher vers lui. J'ai à nouveau entendu les Résistants crier. Mais là, il s'agissait de cris d'encouragement, de cris qui me poussaient à le défier une nouvelle fois. Mais au contraire j'ai continué d'avancer vers Ben et je suis arrivée devant lui.  
 \- Ben, j'espère que tu as compris cette leçon.  
 \- Quoi ? Tu viens de me donner une leçon Rey ? répondit-il, furieux.  
 \- Oui. Je t'expliquerai plus tard.  
 \- Plus tard ? Tu crois que je vais encore faire confiance à ta parole ? Tu viens de me trahir !  
 \- Ben, si je t'avais trahi, je ne serai plus là pour te le dire.  
 
-Il comprit que j'avais raison et posa sa main sur le côteé de mon bras, près de l'épaule.  
+Il comprit que j'avais raison et posa sa main sur le côté de mon bras, près de l'épaule.  
 \- Oui, je vois. Je viens de comprendre. J'ai trouvé une faille dans mon serment, et tu en as trouvée une dans le tien.  
-J'ai acquiescé.
 
-Voyant le geste de Ben, tous les Résistants reperdirent à nouveau espoir et hurlèrent. Et cette fois-ci, ce n'était pas de la douleur. C'était de la colère, de la haine. Mais je ne les ai pas regardés. Je n'avais aucun regret. Je savais ce que je devais faire.  
+Voyant le geste de Ben, tous les Résistants reperdirent espoir et hurlèrent. Et cette fois-ci, ce n'était pas de la douleur. C'était de la colère, de la haine. Mais je ne les ai pas regardés. Je n'avais aucun regret. Je savais ce que je devais faire.  
 Soudain j'ai entendu un cri. J'ai entendu quelqu'un m'appeler.  
 \- Rey ! Rey ! Fais pas ça ! Rey ! Reviens !  
-J'ai tourné la tête et vis Finn arriver en courant. Ben tendit son bras dans sa direction et le stoppa. Il le souleva à un mètre du sol. Finn était là, en suspension. Il tournait sur lui-même. Puis, avec moi, il rejoignit le vaisseau.
+J'ai tourné la tête et vis Finn arriver en courant. Ben tendit son bras dans sa direction et le stoppa. Il le souleva à un mètre du sol. Finn était là, en suspension et tournait sur lui-même. Puis, sans un regard sur lui, nous repartîmes vers le vaisseau.
+
+Une fois montés à bord, le vaisseau s'envola pour reprendre sa position au-dessus des chars. A travers les vitres, je voyais les Résistantsplus décidés que jamais à se battre contre le Premier Ordre.  
+\- Génral Hux ! Dites à vos troupes d'en finir avec ces Résistants ! ordonna Ben.  
+\- Oui, Supreme Leader, répondit le général avant de se pencher vers le micro central pour diffuser l'ordre.  
+Le ventre serré, je vis les chars démarrer et toutes les troupes tirer vers les Résistants. Certains furent abattus mais les plus chanceux réussirent à retourner dans la grotte et à fermer la grande porte. Je sentais Ben enrager en voyant les faibles pertes ennemies.  
+\- Général, dans combien de temps le canon bélier sera-t-il en mesure de tirer ? demanda-t-il, impatient et contrarié.  
+\- Hum... Dans environ trente minutes, Supreme Leader. Ce n'est plus qu'une question de temps.  
+\- Trente minutes ?! D'ici là, les Résistants auront trouvé une solution pour s'échapper ! cria Ben en se retournant. Général ! Envoyez des troupes dans les montagnes afin de les prendre à revers si jamais ils essaient de fuir à notre insu !  
+\- Mais, Supreme Leader, il n'y a pas d'autre issue. Cette base est ancienne et nous avons pu en obtenir les plans. Il n'y a pas d'autre sortie.  
+\- Faites ce que je vous dis ! cria Ben en étranglant le général à distance. Et envoyez aussi des patrouilles de chasseurs !  
+\- A... A vos... ordres... prononca le général avec une grande difficulté.  
+
+Ben le relâcha et le général s'empressa de donner les ordres exigés.  
+Moi, de mon côté, je m'étais forcée de ne pas réagir. Ce fut difficile et je dus même m'écarter des vitres en allant vers le milieu du vaisseau pour ne pas voir tout cela. Je ne pouvais pas faire basculer la situation ni les intentions de Ben si rapidement. Il me fallait faire preuve de patience. Soudain, une idée me traversa l'esprit et me permit de reprendre espoir pour la vie des Résistants, tout en restant fidèle à mon alliance avec Ben.  
+\- Ben, fis-je en me tournant vers lui, je crois qu'il y a une solution plus radicale et qui te serait extrêment bénéfique.  
+Il se retourna vers moi, le regard noir. Sans le quitter des yeux, j'ai senti que ses hommes redoutaient le pire pour moi. Mais, au lieu de m'attraper à la gorge et de me faire avancer violemment vers lui, il s'avança jusqu'à moi. Sans prêter attention aux autres qui, je crois, était surpris de la réaction du Supreme Leader à mon égard, je fixais Ben comme lui me regardait dans les yeux.  
+\- Rey, ne m'appelle plus jamais comme ça devant mes hommes ! me dit-il sèchement à voix basse une fois arrivé devant moi.  
+\- Quoi ?! mais comment alors ? lui demandai-je, sachant que jamais je ne l'appelerais Supreme Leader, même s'il me l'ordonnait.  
+\- Kylo. Ici, je suis Kylo Ren. me répondit-il gravement.  
+\- Bien, fis-je à contre-coeur. Kylo, j'ai trouvé une autre solution. Une solution qui pourrait mettre la galaxie à tes pieds.  
+
+Il fut étonné. Étonné de voir le soutien que je lui apportais déjà dans la lutte contre les Résistants, qui étaient encore mes alliés il y a quelques heures. Le général Hux s'approcha, méfiant.  
+\- Explique-toi, me demanda Ben, intéressé.  
+\- Si tu tues tous les Résistants ici présents, tu allumeras un nouveau foyer de haine et de révolte dans la galaxie, commençai-je. Au lieu de les exécu...  
+\- Supreme Leader ! trancha le général. Cette femme essaie de vous manipuler ! Tout ce qu'elle veut c'est sauver ses amis ! Elle fait partie de la Résistance, ne l'oubliez pas ! continua-t-il en me lançant un regard de mépris.  
+Ben se retourna alors vers lui et l'attrapa à la gorge.
+\- Cette femme est désormais mon alliée ! Et je vous conseille de ne plus lui manquer de respect !  
+Voyant qu'il n'avait plus le choix le général dut s'incliner devant la volonté de Ben.  
+\- Mes... mes respects... euh... Rey ? me dit-il, en hésitant sur mon nom.  
+\- Altesse ! prononça Ben, sur un ton très insistant.  
+\- Mes res... mes respects Votre altesse... reprit le général, qui fut alors relâché par Ben.  
+
+Je n'arrivais pas à comprendre ce que je venais d'entendre. Ben voulait que je sois une Altesse ?! Me donnait-il une place hautement hiérarchisée dans le Premier Ordre ou était-ce simplement pour que ses hommes ne m'appellent pas par mon prénom ?
+\- Bon, reprenons, dit-il en se retournant vers moi.  
+\- B... Kylo, ne fais pas exécuter les Résistants. Prends-les en otage et fais circuler dans la galaxie que tant que les systèmes te resteront fidèles, il ne leur arrivera rien. De plus, continuai-je devant Ben qui semblait intéressé, montre aujourd'hui que tu es le chef légitime du Premier Ordre, que tu es le Maître de la Force !  
+Je vis le général Hux prêt à convaincre Ben de ne pas m'écouter mais mon simple regard dans sa direction le décida à se taire. Ben, de plus en plus intrigué par ma solution, réfléchissait. Puis il me demanda :  
+\- Rey, ce que tu me dis est intéressant. C'est une bonne stratégie. Mais comment veux-tu que je prenne en otage ces Résistants enfermés dans la grotte sans prendre les armes ? En les assiègeant ? Cela durerait trop longtemps.  
+\- Oui, Suprême Leader, confirma le général ravi de voir que Ben n'était pas convaincu de ma proposition.  
+\- Grâce à ta maîtrise de la Force, repris-je lentement en regardant Ben droit dans les yeux. Utilise la Force pour ouvrir la porte. Personne n'osera plus te défier après cela !  
+
+Un long silence suivit ma déclaration. Après avoir bien réfléchi, Ben me tourna le dos et ordonna au général d'approcher suffisamment les troupes de la porte sans tirer. Sur le moment, je ne savais pas quoi penser : avait-il choisi de garder la stratégie initiale, ou le fait d'ordonner aux troupes de ne pas tirer signifiait qu'il allait appliquer mon plan ?  
+Les troupes et notre vaisseau s'approchaient de la grotte. Face à la vitre, Ben ordonna soudain aux troupes de s'arrêter. Il se tourna vers le général et exigea qu'il transmette qu'aucun ennemi ne devait être abattu. Je ressentis à ce moment-là un grand soulagement en moi. Ben avait choisi mon plan ! Mais je dus refouler rapidement mes émotions car je sentais mes yeux commencer à briller, chose que je ne pouvais pas me permettre. J'étais l'alliée de Kylo Ren, Supreme Leader du Premier Ordre et partisan du Côté Obscur. Je me devais de rester neutre, voire impassible. Que ce soit pour moi ou pour aider à Ben à contrôler ses impulsions.  
+Puis Ben ordonna de faire atterrir le vaisseau. Le général me regardait, très méprisant. Mais je n'y faisais pas attention. Si j'avais fait le choix d'être à côté de Ben, c'était pour le faire revenir du côté lumineux, pas pour gagner l'amitié de ses hommes.  
+Ben se dirigea alors vers la porte du vaisseau. Mais le général intervint :  
+\- Hum hum... Supreme Leader... Puis-je me permettre de vous faire remarquer un détail ?  
+\- Lequel ? fit Ben en se retournant.  
+\- Je ne remets pas en doute le plan de son Altesse, commença-t-il rapidement de me désignant du menton, comme s'il craignait d'être immédiatement étranglé. Mais, comment doivent réagir mes hommes si les Résistants commencent à tirer sur vous ?  
+Je vis que Ben n'avait pas pensé à cela et semblait contrarié par cet oubli. Après une courte réflexion, il se tourna vers moi et me fit signe de le suivre.  
+\- Dites à vos hommes de ne pas intervenir tant que la porte ne sera pas ouverte. Quant aux tirs des Résistants, mon alliée me couvrira.
+
+Nous sortîmes du vaisseau, lui devant.. Sa dernière phrase résonnait en moi. _"Mon alliée me couvrira."_ Que voulait-il dire ? Que j'allais lui servir de bouclier humain ? Que je tire sur les Résistants afin qu'ils ne sortent pas de leurs abris ? Je me suis mise à côté de lui et nous marchâmes vers la porte.  
+\- Ben, que veux-tu que je fasse ? Que voulais-tu dire par _te couvrir_ ? Je n'ai pas d'arme sur moi.  
+\- Non, mais moi oui, me répondit-il en continuant à marcher, sans tourner la tête.  
+\- Quoi ?!  
+\- Tu m'as juré de toujours me soutenir, n'est-ce pas ? me fit-il remarquer. J'ai confiance en toi, Rey. Prends mon sabre-laser et détourne tous les tirs dans notre direction.  
+En entendant ces paroles, j'ai eu un brutal étonnement. Je l'ai regardé puis me suis arrêtée de marcher. Ne me voyant plus à ses côtés, Ben se retrouna et vis que j'étais quelques pas derrière, ébahie.  
+\- Rey, je ne plaisante pas, affirma-t-il. Tiens, voici mon arme. Je te la prête. Car, en plus de sauver nos vies en l'utilisant, tu prouveras à tout le monde que tu es avec moi.  
+Je pris son arme et nous repartîmes vers la porte. Mon coeur battait de plus en plus fort, résonnait dans tout mon corps. Je sentis l'inquiétude et la compassion s'installer sur mon visage. Et cela, ce n'était plus possible. Je me suis alors bien concentrée sur ce qui allait se passer et me rendis compte que mon visage devenait plus ferme, mon regard plus noir. J'en étais satisfaite. Non pas parce que c'est ce que je souhaitais devenir intérieurement, mais parce que je commençais à jouer le rôle que je devais jouer auprès de Ben.
+
+J'ai allumé le sabre-laser. Ben prit alors la parole :  
+\- Résistants, votre avenir est désormais entre mes mains ! Vous ne pouvais plus vous échapper !  
+Résistant tira sur Ben, mais grâce au sabre-laser, je pus le dévier et Ben ne fut pas touché. D'autres tirs partirent alors mais furent eux aussi stopper par mon arme. Par un simple regard, Ben et moi comrîmes que le moment était venu. Il tendit ses bras devant lui et commença un terrible effort pour soulever la porte. Celle-ci ne bougeait pas. Je sentais Ben perdre l'espoir de réussir et commencer à regretter d'avoir suivi mon plan. Mais entre deux tirs, je l'ai encouragé en lui affirmant que si, il pouvait le faire. De longues secondes s'écoulèrent. Mais rien. Je commençais moi aussi à perdre espoir quand soudain, la porte se mit à frémir puis doucement monter et s'ouvrir. Jetant de temps en temps des coups d'oeil à Ben, je vis que celui-ci avait repris toute confiance dans mon plan et que sa puissance avait presque doublé.  
+\- Rey, ordonne à mes hommes d'intervenir !  
+Je me suis retournée un instant pour faire signe au général que l'assaut pouvait être lancé. Je vis les StormTroopers commencer à avancer. Hélas, je suis restée un instant de trop tournée vers l'arrière et je sentis un choc. Je venais d'être touchée. La douleur était si aigüe que je n'ai pas pu définir l'endroit de la blessure. Je suis alors tombée et ai perdu connaissance, sans pouvoir voir la fin de la bataille.
