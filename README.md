@@ -3,7 +3,7 @@
 Cette fanfiction de Star Wars commence après la mort du Grand Snoke et le combat de Kylo Ren et Rey contre la garde prétorienne dans le film _The Last Jedi_.  
 Rey, qui raconte l'histoire, est repartie et a rejoint Chewie à bord du Faucon Millenium.
 
-## La bataille de Creit
+## Chapitre 1
 Chewie et moi, à bord du Faucon Millenium, arrivions sur la planète Creit. La bataille faisait rage. Les chasseurs résistants faisaient tout leur possible pour éliminer une grosse machine qui, apparemment, allait détruire la porte principale de la grotte où était située la base.  
 Chewie et moi décidâmes alors de venir en aide à tous ces pilotes héroïques. Nous fonçâmes vers les chasseurs adverses. Après quelques tirs qui en tuèrent plusieurs, nous repartîmes afin de les attirer loin du champ de bataille. Ils nous suivirent. Nous sommes passés par plusieurs tunnels et à la fin, en sortant, nous les avions tous détruits. Certains avaient percuté des parois, des stalactiques, et d'autres avaient raté des virages.  
 Nous sommes remontés en hauteur pour voir où en était la bataille. Et là, qu'avons-nous vu ? Les chasseurs résistants avaient disparu ou gisaient sur le sol. Et les chars adverses commençaient apparemment à avancer. Ils se rapprochaient de plus en plus de la porte de la grotte. Tous les résistants s'y étaient réfugiés, à part certains qui n'avaient pas pu l'atteindre et s'étaient cachés dans les tranchées.
@@ -74,6 +74,7 @@ A ce moment-là, j'ai su que je ne pourrais plus revenir en arrière. Plus jamai
 Là, il fallait que je fasse un choix. J'ai hésité mais me suis dit que mon choix était le bon. Il fallait que le serment tienne coûte que coûte, quoi qu'il arrive. Dans le cas contraire, si Ben mourrait, je pourrai retourner auprès des Résistants, mais si c'était moi qui mourrais en premier, alors lui pourrait recommencer à tuer. Dans le cas contraire, celui que j'ai choisi, c'était différent : si je mourrais, Ben ne pourrait pas recommencer à tuer et si lui mourrait je pourrais toujours essayer de ramener la paix et l'ordre dans la galaxie et faire union avec ceux qui la veulent aussi mais qui sont dans l'autre camp.  
 Ben relâcha son sabre-laser et m'invita à le suivre en me tendant la main.  
 
+## Chapitre 2
 Me dirigeant vers le vaisseau, j'entendais derrière moi les cris désespérés des Résistants qui ne comprenaient pas ma décision. Le plus déchirant fut celui de Leia, elle qui espérait tant voir son fils revenir dans le côté lumineux, elle qui avait placé en moi tout son espoir pour rétablir la paix me voyait partir moi aussi. Mais je ne regrettais rien. Et je ne me suis pas retournée.  
 Lorsque nous somme arrivés devant la porte latérale du vaisseau, j'ai jeté un vif regard en direction la porte de la grotte. Je vis que les Résistants étaient à nouveaux sortis, prêts à reprendre le combat même si je n'étais plus à leurs côtés. Je me suis alors tournée vers Ben qui était à ma gauche.  
 \- Ben, que vas-tu faire maintenant ?  
@@ -172,20 +173,66 @@ Arrivés à bonne distance de la porte, nous nous sommes arrêtés, face à elle
 \- Résistants, votre avenir est désormais entre mes mains ! Vous ne pouvais plus vous échapper !  
 Un Résistant tira sur Ben, mais grâce au sabre-laser, je pus le dévier et Ben ne fut pas touché. D'autres tirs partirent alors mais furent eux aussi stopper par mon arme. Par un simple regard, Ben et moi comprîmes que le moment était venu. Il tendit ses bras devant lui et commença un terrible effort pour soulever la porte. Celle-ci ne bougeait pas. Je sentais Ben perdre l'espoir de réussir et commencer à regretter d'avoir suivi mon plan. Entre deux tirs, je l'ai encouragé en lui affirmant que si, il pouvait le faire. De longues secondes s'écoulèrent. Mais rien. Je commençais moi aussi à douter quand soudain, la porte se mit à frémir puis monter doucement et s'ouvrir. Jetant de temps en temps des coups d'oeil à Ben, je vis que celui-ci avait repris toute confiance dans mon plan et que sa puissance avait presque doublé.  
 \- Rey, ordonne à mes hommes d'intervenir !  
-Je me suis retournée un instant pour faire signe au général que l'assaut pouvait être lancé. Je vis les StormTroopers commencer à avancer. Hélas, je suis restée un instant de trop tournée vers l'arrière et je sentis un choc. Je venais d'être touchée. La douleur était si aigüe que je n'ai pas pu définir l'endroit de la blessure. Je suis alors tombée et ai perdu connaissance, sans pouvoir voir la fin de la bataille.
+Je me suis retournée un instant pour faire signe au général que l'assaut pouvait être lancé. Je vis les Stormtroopers commencer à avancer. Hélas, je suis restée un instant de trop tournée vers l'arrière et je sentis un choc. Je venais d'être touchée. La douleur était si aigüe que je n'ai pas pu définir l'endroit de la blessure. Je suis alors tombée et ai perdu connaissance, sans pouvoir voir la fin de la bataille.
 
-## _Suite_
-Lorsque je me suis réveillée, j'étais encore sur le champ de bataille mais je n'entendis aucun tir. Ouvrant les yeux, je vis que la nuit était tombée. Je voulus me relever mais une douleur atroce dans le dos me bloqua dans mon mouvement. A cet instant, tout me revint en mémoire. Mon duel face à Ben. Mon alliance avec lui et le Premier Ordre. L'ouvertur de la porte par Ben et moi qui le couvrais.  
+## Chapitre 3
+Lorsque je me suis réveillée, j'étais encore sur le champ de bataille. Mais je n'entendais aucun tir. Ouvrant les yeux, je vis que la nuit était tombée. Je voulus me relever mais une douleur atroce dans le dos me bloqua dans mon mouvement. A cet instant, tout me revint en mémoire. Mon duel face à Ben. Mon alliance avec lui et le Premier Ordre. L'ouverture de la porte par Ben, et moi qui le couvrais.  
 Mes souvenirs revenus, j'ai examiné les alentours. Et je fus surprise. Les chars du Premier Ordre étaient arrêtés, éteints en plein milieu du champ de bataille, tout comme les chasseurs et autres vaisseaux du Premier Ordre. La grotte était presque fermée, avec de la lumière et des cris de joie à l'intérieur.  
-Que s'était-il passé ? Les Résistants avaient fini par remporter la victoire ? Non. Les équipements du Premier Ordre ne seraient pas intacts. Mon plan avait fonctionné alors. Mais dans ce cas, à quoi correspondaient tous ces bruits dans la grotte ? Je m'imaginais mal Ben lançait des festivités à ses troupes pour fêter sa victoire.  
-Trouvant une grande métallique, je pus me relever. Doucement. Puis je me suis dirigée vers la grotte afin d'en savoir plus. Mais à un moment, j'ai posé ma béquille sur un objet et je perdis l'équilibre. J'ai essayé de me relever mais ce fut très difficile. Je vis alors une silhouette s'approcher de moi. Je n'arrivais pas à distinguer qui était cette personne car elle était à contre-jour.  
-\- Rey ? C'est toi, Rey ?
+Que s'était-il passé ? Les Résistants avaient fini par remporter la victoire ? Non. Les équipements du Premier Ordre ne seraient pas intacts. Mon plan avait fonctionné alors. Mais dans ce cas, à quoi correspondaient tous ces bruits dans la grotte ? Je m'imaginais mal Ben lancer des festivités pour fêter sa victoire.  
+Trouvant une grande barre métallique, je pus me relever. Doucement. Puis je me suis dirigée vers la grotte afin d'en savoir plus. Mais à un moment, j'ai posé ma béquille sur un objet et je perdis l'équilibre. Je suis tombée. J'ai essayé de me relever mais ce fut très difficile. Je vis alors une silhouette s'approcher de moi. Je n'arrivais pas à distinguer qui était cette personne car elle était à contre-jour.  
+\- Rey ? C'est toi, Rey ?  
 \- Oui, oui. C'est moi. Je suis ici ! répondis-je en reconnaissant la voix de Poe.  
 Il s'approcha de moi et m'aida à me relever.  
-\- Poe, que s'est-il passé ? Dis-moi, comment s'est passée la bataille ! fis-je, inquiète et impatiente de savoir ce qu'étaient devenus Ben et les Résistants.  
+\- Poe, que s'est-il passé ? Dis-moi, comment s'est passée la bataille ?! fis-je, inquiète et impatiente de savoir ce qu'étaient devenus Ben et les Résistants.  
 \- Attends, ça va être long. Viens te faire soigner, je te raconterai en chemin, me dit-il en passant mon bras par-dessus ses épaules afin de me soutenir.  
-Nous nous dirigeâmes alors vers la grotte et Poe commença à tout me raconter. Après l'ouverture de la porte par Ben, les StormTroopers commencèrent à envahir la grotte et capturer les Résistants. Lorsque Ben rentra à son tour, Leia le vit et ne put s'empêcher de crier son nom et de courir vers lui. Ben fit signe à ses hommes de la laisser passer. Elle arriva devant lui et le serra dans ses bras. Et là, à la stupeur de tous, Ben la serra contre lui. Il se mit à pleurer et à lui confier tous ses remords. Puis, la prenant par les épaules, il lui avoua que tout cela était dû au Grand Snoke, qui l'avait monté contre sa famille et la lumière. Il la lâcha et déclara alors à ses troupes que tous ces conflits étaient terminés, que le côté lumineux avait gagné et que l'époque de la guerre était terminée.  
-Je n'arrivais pas croire tout ce que Poe me racontait. J'étais comblée par ces nouvelles.  
+Nous nous dirigeâmes alors vers la grotte et Poe commença à me raconter.  
+Après l'ouverture de la porte par Ben, les Stormtroopers commencèrent à envahir la grotte et capturer les Résistants. Lorsque Ben rentra à son tour, Leia le vit et ne put s'empêcher de crier le nom de son fils et de courir vers lui. Ben fit signe à ses hommes de la laisser passer. Elle arriva devant lui et le serra dans ses bras. Et là, à la stupeur de tous, Ben la serra contre lui. Il se mit à pleurer et à lui confier tous ses remords. Puis, la prenant par les épaules, il lui avoua que tout cela était dû au Grand Snoke, qui l'avait monté contre sa famille et la lumière. Il la lâcha et déclara alors à ses troupes que tous ces conflits étaient terminés, que le côté lumineux avait gagné et que l'époque de la guerre était terminée.  
+Je n'arrivais pas croire tout ce que Poe me racontait. J'étais comblée. La guerre était finie. Le Premier Ordre et les Résistants s'étaient réconciliés.  
 Arrivés à la porte, je vis tout le monde fêter le retour de la paix et la victoire de la lumière. Mon regard croisa celui de Ben qui, heureux de me revoir, se leva et vint vers moi.
 
- 
+\- Rey ! Rey ! Tu m'entends ?  
+\- Ben ? essayai-je de prononcer, en reconnaissant sa voix.  
+Mais soudain, je me rendis compte que je n'étais pas dans la grotte. Qu'aucune festivité n'avait lieu. J'étais allongée. Allongée sur un lit.  
+\- Rey ! Rey, tu m'entends ? entendis-je à nouveau. Si oui, serre-moi la main.  
+En essayant de bouger mes mains, je sentis que l'une d'elles était posée sur celle d'une autre personne. Sur celle de Ben. J'ai crispé ma main.  
+\- Oui, ça y est, elle m'a entendu ! fit Ben, rassuré.  
+Sentant une grande activité autour de moi, je me suis forcée à ouvrir les yeux. Je vis plein de personnes tourner autour de moi.  
+\- Ben... où suis-je ? lui demandai-je lentement.  
+\- Dans une salle d'infirmerie de mon vaisseau, Rey.  
+\- Dans une salle d'infirmerie de ton vaisseau... répétai-je.  
+Dans ma tête, tous les événements défilèrent. La bataille. Le duel. Mon alliance. L'ouverture de la grande porte. Les festivités. Les festivités ? Mais que s'y est-il donc passé pour que je ne me souvienne plus de rien à part mon entrée dans la grotte ? Si j'avais de nouveau perdu connaissance, comment se faisait-il que seul Ben était à mon chevet ? Où étaient Leia, Finn, Poe ?  
+Toutes ces interrogations me firent brutalement reprendre mes esprits. Spontanément, je me suis redressée. Assise sur mon lit, j'ai fixé Ben.  
+\- Ben ! Où sont les autres ? Où est ta mère ? Finn ? Poe ? Que s'est-il passé ?!  
+Le personnel soignant commençait à s'inquiéter de ma réaction. L'un deux se dirigea vers Ben et voulut lui parler. Mais Ben, l'ignorant, m'adressa la parole. L'homme se tut.  
+\- Mais, voyons Rey, ils sont dans les cales. Enfermés, comme ton plan l'indiquait, me répondit-il, surpris.  
+\- Mon plan... répétai-je, avec soudain un doute sur ce qui s'était réellement passé. Ben, s'il te plaît, raconte-moi comment s'est passée la fin de la bataille !  
+Une nouvelle fois, le médecin voulut intervenir. Mais Ben le coupa à nouveau et lui ordonné de ne plus interrompre cette discussion, de nous laisser tous seuls. Le médecin s'inclina puis ordonna à tout le personnel de sortir. Une fois partis, Ben commença son récit.  
+
+Tenant toujours la porte de la grotte ouverte, il me vit tomber, inconsciente. Mais il dut attendre que ses hommes aient pris possession des commandes à l'intérieur de la base pour relâcher ses bras et venir me voir. Constatant que j'étais inconsciente mais toujours vivante, il m'emmena à bord de son vaisseau pour me soigner. Pendant ce temps, ses hommes capturèrent tous les Résistants. Et afin de s'assurer qu'il ne restait personne, ils incendièrent la base. Puis tout le monde fut emmené à bord des vaisseaux stationnés près de la planète.  
+A la fin de son récit, je suis restée un long moment dans mes pensées. J'essayais de comprendre. D'après Ben, mon plan s'était déroulé comme prévu. Les Résistants avaient été capturés. La base détruite. Ben m'a emmenée inconsciente à bord de son vaisseau. Mais alors, cela signifiait que je ne me suis jamais réveillée sur le champ de bataille ! Qu'aucune festivité n'avait eu lieu ! Je me suis rallongée. Je sentais l'amertume s'installer en moi. La guerre n'était pas finie. Personne ne s'était réconcilié.  
+Ben, intrigué par ma réaction, tendit sa main vers ma tête. Il voulait lire en moi, comprendre ce qui se passait. Mais il n'eut pas le temps.  
+Les machines se mirent à biper très vite, très fort. Les médecins, malgré l'ordre formel de Ben, rentrèrent dans la pièce.  
+\- Pardonnez-nous, Supreme Leader, fit l'un d'eux, la peur au ventre. Mais nous nous devons d'intervenir. C'est urgent ! continua-t-il en invitant Ben à se lever et à s'écarter du lit.  
+Ils inspectèrent les machines et placèrent un masque sur mon mez et ma bouche.
+
+Puis tout redevint normal. Les médecins restèrent devant les écrans.  
+\- C'est incroyable.  
+\- Jamais je n'avais vu cela avant.  
+\- Impressionnant.  
+\- Oui, sa blessure fatale n'est rien à côté.  
+\- Je n'arrive pas à y croire...  
+Ces paroles m'effrayaient. Ma blessure, qui apparemment aurait pu me coûter la vie, n'était rien face à ce qu'ils observaient ? Qu'avais-je de si grave ? Inquiète, j'ai regardé Ben. Il regardait les étoiles à travers la vitre. Il paraissait lui aussi troublé par les propos des médecins. Ne supportant plus d'entendre ces paroles sans savoir de quoi il s'agissait, il se retourna et s'approcha des médecin. Il me lança un rapide regard pour me rassurer, pour me faire comprendre qu'il ne me laissera pas tomber.  
+\- Que se passe-t-il ? demanda-t-il gravement.  
+\- Supreme Leader, répondit l'un d'eux, le cas de son Altesse Rey est extraordinaire.  
+\- Quoi ?! Vous trouvez que mon alliée est _extraordinaire_ ? fit Ben sur un ton jaloux en prenant le médecin à la gorge.  
+\- Non, non, ce n'est pas ce que vous croyez, s'empressa de déclarer un autre médecin.  
+Ben desserra alors sa main autour du cou du médecin. Mais il ne le relâcha pas. Je voyais dans son regard une grande détermination à me sauver.  
+\- Expliquez-vous.  
+\- Supreme Leader, la blessure de votre alliée aurait dû la tuer. Mais, par miracle, elle a su y résister. Grâce à sa volonté de vivre. Nous n'avions jamais observé une telle puissance de volonté.  
+
+Je n'arrivais pas à croire ce que les médecins venaient de dire. Ma volonté de vivre avait vaincu la mort ? Non, ce n'était pas possible. Penser que j'étais la première avoir résister à la mort ainsi m'effrayait. Je voulait observé la réaction des médecins mais ils me tournaient le dos, face à Ben. Lui aussi paraissait intrigué par cette nouvelle. Intrigué, mais non inquiet.  
+Il me regarda et vit dans mes yeux la panique et la peur. Il se rapprocha alors de moi et posa sa main sur la mienne pour me rassurer. Son visage exprimait de l'admiration. Mais pas l'admiration qu'un enfant impressionné pouvait avoir face à un grand Maître. C'était différent. Plus doux, plus compatissant. Le voir réagir ainsi me fit chaud au coeur. Ces émotions prouvaient qu'il y avait encore du bon en lui. Que je pouvais garder espoir et le ramener un jour vers la lumière. Que j'avais fait le bon choix.  
+Reprenant un visage plus ferme, il se tourna vers les médecins.  
+\- Combien de temps la guérison de la blessure durera-t-elle ?  
+\- Supreme Leader, vue la résistance de votre alliée, elle pourra sortir dès demain, répondit un des médecins en regardant ses collègues qui affirmèrent. Cependant, elle devra revenir faire des contrôles quotidiennement pendant une dizaine de jours, termina-t-il en se tournant vers moi.  
+\- Bien, fit Ben. Maintenant, laissez nous seuls.  
