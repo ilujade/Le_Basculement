@@ -31,7 +31,7 @@ Je me suis alors baissée, la main par terre. Ben crut que je me mettais à geno
 Mais moi, même si mon sabre-laser avait été détruit lors de notre affrontement dans la salle du Grand Snoke j'avais réussi en repartant à dérober une des armes de la garde prétorienne. Je l'avais dissimulée par terre. Elle était rouge comme le sol. Je l'ai alors serrée dans ma main et me suis levée, face à Ben.  
 \- Ben, je n'ai peut-être plus de sabre-laser, mais il y a d'autres armes. Il n'y a pas que celle-là.
 
-En échangeant un regard, nous comprîmes qu'il n'y avait pas d'autres solution. Nous devions nous affronter, seul à seul, face à nos deux armées. Nous échangîmes plusieurs coups, de face, de côté, de dos mais nous résistions autant l'un que l'autre. Soudain, je pus le bousculer et il tomba. Son sabre-laser vola et je réussis à le rattraper. Il était face à moi, sans arme.
+En échangeant un regard, nous comprîmes qu'il n'y avait pas d'autres solution. Nous devions nous affronter, seul à seul, face à nos deux armées. Nous échangeâmes plusieurs coups, de face, de côté, de dos mais nous résistions autant l'un que l'autre. Soudain, je pus le bousculer et il tomba. Son sabre-laser vola et je réussis à le rattraper. Il était face à moi, sans arme.
 
 \- Alors, Ben, tu dis que le côté obscur est le plus puissant ? lançai-je en m'avançant vers lui, qui commençait à craindre le pire. Tu dis que le côté obscur est le plus puissant, mais regarde : toi, tu y es entraîné depuis longtemps et tu n'as pas réussi à me battre, moi qui n'y connaissais rien.  
 \- Rey, tais-toi ! cria-t-il furieusement. C'est ainsi que tu veux me ridiculiser devant mon armée ? Pourquoi l'as-tu fait si loin ? Tu n'avais qu'à le faire juste devant les chars.  
@@ -263,23 +263,40 @@ Cette salle d'audience dans laquelle Ben avait réussi à se retourner contre Sn
 
 À ma grande surprise, la salle était différente. Il n'y avait pas de rouge. La salle n'était pas ronde. 
 Mais je n'eus pas le temps d'observer plus en détail cette pièce. Ben, qui discutait avec quatre hommes m'aperçut. Avec un ton sec, il leur ordonna de se taire et s'avança vers moi. Il n'avait pas le regard doux de la veille.  
-\- Rey, comment vas-tu ? Les médecins sont-ils toujours aussi optimistes ? me demanda-t-il avec un regard attendri.  
+\- Rey, comment vas-tu ? Les médecins sont-ils toujours aussi optimistes ? me demanda-t-il avec un regard devenu plus attendri.  
 \- Oui, Ben, lui répondis-je.  
-Son regard changea. Et je compris pourquoi. Je l'avais appelé _Ben_. Devant ses hommes.  
+Son regard changea à nouveau. Et je compris pourquoi. Je l'avais appelé _Ben_. Devant ses hommes.  
 \- Oui, les médecins sont toujours aussi optimistes, m'empressai-je de répéter.  
-\- Tant mieux. Il va falloir que je t'informes de certaines règles, certaines conventions du Premier Ordre. Mais avant, viens, me fit-il en m'invitant à l'accompagner jusqu'au centre de la salle, devant les quatre hommes.  
+\- Tant mieux. Il va falloir que je t'informe de certaines règles, certaines conventions du Premier Ordre. Mais avant, viens.  
+Il m'invita à l'accompagner jusqu'au centre de la salle, devant les quatre hommes.  
 
 Je reconnus le Général Hux. Il n'avait pas changé de regard. Un autre visage me semblait familier, mais je ne voyais pas de qui il s'agissait. Quant aux deux derniers, je ne les avais jamais rencontrés.  
-\- Je vous présente ma nouvelle alliée, l'Altesse Rey. La moindre marque de non-respect à son égard sera lourdement châtiée.  
-Le Général Hux restait impassible. Mais les trois autres se sentirent un peu mal à l'aide et inclinèrent leurs têtes en signe de respect.  
+\- Je vous présente ma nouvelle alliée, l'Altesse Rey, commença-t-il avec un ton grave. La moindre marque de non-respect à son égard sera lourdement châtiée.  
+Le Général Hux restait impassible. Mais les trois autres se sentirent un peu mal à l'aise et inclinèrent leurs têtes en signe de respect.  
 \- Rey, voici les responsables des quatre services du Premier Ordre. 
-Je sentais mal à l'aise. J'avais le ventre serré. Jamais je n'avais vécu une telle situation. J'avais devant moi les plus hauts responsables du Premier Ordre et ils me devaient le respect. Je ne devais montrer aucun signe d'émotivité à ce moment. Alors, comme devant les Résistants sur Crait, je me suis concentrée sur mon rôle à tenir. Je devais garder la tête haute, avec un visage neutre voire ferme.  
+
+J'avais le ventre serré. Jamais je n'avais vécu une telle situation. J'avais devant moi les plus hauts responsables du Premier Ordre. Et ils me devaient le respect. Je ne devais montrer aucun signe d'émotivité à ce moment. Alors, comme devant les Résistants sur Crait, je me suis concentrée sur mon rôle à tenir. Je devais garder la tête haute, avec un visage neutre voire ferme.  
 Ben reprit.  
-\- Tu connais déjà le Général Hux. Il est le responsable de mes armées.  
+\- Rey, tu connais déjà le Général Hux. Il est le responsable de mes armées.  
 Le Général me regarda avec un air de mépris. Voyant que Ben n'appréciait pas son manque de réaction, il s'inclina.  
 \- Mes respects, _Altesse_, me dit-il froidement.  
-D'un regard Ben lui fit comprendre que désormais, il se devait de réagir ainsi envers moi.  
-Il me présenta ensuite Glario, le chef des ingénieurs, et Ferta le Médecin-Chef. Je compris ainsi pourquoi son visage m'était familier : je l'avais rencontré à l'infirmerie. Il termina par Cratoshi, chargé de toute la gestion, autre que militaire ou médicale, à bord des vaisseaux.
+D'un regard Ben lui fit comprendre que désormais, il devrait réagir ainsi envers moi.  
+Il me présenta ensuite Glario, le chef des ingénieurs, et Ferta le Médecin-Chef. Je compris ainsi pourquoi son visage m'était familier : je l'avais rencontré à l'infirmerie. Il termina par Cratoshi, chargé de toute la gestion, autre que militaire ou médicale, à bord des vaisseaux.  
 \- Maintenant vous connaissez mon alliée. N'oubliez pas que le moindre signe de non-respect sera puni. Par moi, ou par elle.  
 Je sentis de l'étonnement passer dans mon regard. Mais Ben reprit tout de suite :  
-\- Elle aussi maîtrise la Force. Le Général Hux et le Médecin-Chef Ferta peuvent en témoigner, ajouta-t-il sur un ton aussi calme qu'autoritaire.
+\- Elle aussi maîtrise la Force. Le Général Hux et le Médecin-Chef Ferta peuvent en témoigner, ajouta-t-il sur un ton aussi calme qu'autoritaire.  
+
+Il posa la main sur son sabre-laser, accroché à sa ceinture. Il le détacha. Ses hommes commençaient à s'inquiéter. Son arme à la main, il se tourna vers moi. Et alors, à ma grande surprise, il me le tendit.  
+Après quelques instants de stupeur, j'ai levé doucement la main. Son regard insistant me poussa à prendre l'arme. Il la lâcha. Je l'ai regardé et me suis aperçue qu'il ne s'agissait pas de son sabre-laser. Ni de celui de Luke. Je l'ai allumé et vis qu'il était bleu. Je l'ai tourné autour de moi plusieurs fois puis, revenant à la réalité, je l'ai éteint. Ben semblait ému.  
+\- Rey, voici ton nouveau sabre-laser. Je te l'offre.  
+Je ne savais pas quelle attitude adopter. Devais-je être ravie par ce cadeau que me faisait Ben, ou plutôt fière face à ses hommes ? J'ai avalé ma salive et, le visage fier, je l'ai remercié en essayant de mettre toute ma gratitude dans mon regard.  
+
+Puis son visage prit une grande fermeté et il se tourna vers ses hommes.
+\- Bien, maintenant, reprenons le problème du vaisseau. Glario, combien de temps nous reste-t-il avant que le vaisseau ne s'écrase sur Crait ?
+\- Nos calculs sont formels, Suprême Leader. Six heures et vingt-six minutes, répondit l'ingénieur en regardant sa montre.  
+\- Général, je veux que tous les chars à bord du vaisseau soient évacués avant ce délai.  
+\- Ce ne sera pas possible, Suprême Leader. Car même si tous les hommes s'en occup...  
+Il n'eut pas le temps de terminer sa phrase. Ben refusant d'être contredit tendit son bras et le propulsa quelques mètres plus loin. Puis sans s'occuper du général, il reprit la parole.  
+\- Glario, trouvez une solution pour que le reste du vaisseau ne s'écrase pas. Mais surtout je veux que le maximum de ressources à bord de la partie en perdition soit récupéré. Que tous les services s'en chargent ! termina-t-il sur un ton très autoritaire et déterminé.  
+Ses hommes s'inclinèrent puis partirent exécuter les ordres.  
+Une fois seuls, je voulus demander à Ben quel était le problème de ce vaisseau en perdition. Mais quand je l'ai regardé, j'ai vu qu'il était nerveux. Était-ce dû à la situation du vaisseau ? à l'ardeur qu'il mettait pour prouver qu'il était un grand chef ?
