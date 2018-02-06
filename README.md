@@ -116,7 +116,7 @@ Une fois montés à bord, le vaisseau s'envola pour reprendre sa position au-des
 \- Oui, Suprême Leader, répondit le général avant de se pencher vers le micro central pour diffuser l'ordre.  
 Le ventre serré, je vis les chars démarrer et toutes les troupes tirer vers les Résistants. Certains furent abattus mais les plus chanceux réussirent à retourner dans la grotte et à fermer la grande porte. Je sentais Ben enrager en voyant les faibles pertes ennemies.  
 \- Général, dans combien de temps le canon bélier sera-t-il en mesure de tirer ? demanda-t-il, impatient et contrarié.  
-\- Hum... Dans environ trente minutes, Suprême Leader. Ce n'est plus qu'une question de temps.  
+\- Hum hum... Dans environ trente minutes, Suprême Leader. Ce n'est plus qu'une question de temps.  
 \- Trente minutes ?! D'ici là, les Résistants auront trouvé une solution pour s'échapper ! cria Ben en se retournant. Général ! Envoyez des troupes dans les montagnes afin de les prendre à revers si jamais ils essaient de fuir à notre insu !  
 \- Mais, Suprême Leader, il n'y a pas d'autre issue. Cette base est ancienne et nous avons pu en obtenir les plans. Il n'y a pas d'autre sortie.  
 \- Faites ce que je vous dis ! cria Ben en étranglant le général à distance. Et envoyez aussi des patrouilles de chasseurs !  
@@ -263,7 +263,7 @@ Cette salle d'audience dans laquelle Ben avait réussi à se retourner contre Sn
 
 À ma grande surprise, la salle était différente. Il n'y avait pas de rouge. La salle n'était pas ronde. 
 Mais je n'eus pas le temps d'observer plus en détail cette pièce. Ben, qui discutait avec quatre hommes m'aperçut. Avec un ton sec, il leur ordonna de se taire et s'avança vers moi. Il n'avait pas le regard doux de la veille.  
-\- Rey, comment vas-tu ? Les médecins sont-ils toujours aussi optimistes ? me demanda-t-il avec un regard devenu plus attendri.  
+\- Rey, comment vas-tu ? Les médecins sont-ils toujours aussi optimistes ? me demanda-t-il avec un regard attendri.  
 \- Oui, Ben, lui répondis-je.  
 Son regard changea à nouveau. Et je compris pourquoi. Je l'avais appelé _Ben_. Devant ses hommes.  
 \- Oui, les médecins sont toujours aussi optimistes, m'empressai-je de répéter.  
@@ -287,14 +287,14 @@ Je sentis de l'étonnement passer dans mon regard. Mais Ben reprit tout de suite
 \- Elle aussi maîtrise la Force. Le Général Hux et le Médecin-Chef Ferta peuvent en témoigner, ajouta-t-il sur un ton aussi calme qu'autoritaire.  
 
 Il posa la main sur son sabre-laser, accroché à sa ceinture. Il le détacha. Ses hommes commençaient à s'inquiéter. Son arme à la main, il se tourna vers moi. Et alors, à ma grande surprise, il me le tendit.  
-Après quelques instants de stupeur, j'ai levé doucement la main. Son regard insistant me poussa à prendre l'arme. Il la lâcha. Je l'ai regardé et me suis aperçue qu'il ne s'agissait pas de son sabre-laser. Ni de celui de Luke. Je l'ai allumé et vis qu'il était bleu. Je l'ai tourné autour de moi plusieurs fois puis, revenant à la réalité, je l'ai éteint. Ben semblait ému.  
+Après quelques instants de stupeur, j'ai levé doucement la main. Son regard insistant me poussa à prendre l'arme. Il la lâcha. Je l'ai regardé et me suis aperçue qu'il ne s'agissait pas de son sabre-laser. Ni de celui de Luke. Je l'ai allumé et vis qu'il était bleu. Je l'ai tourné autour de moi plusieurs fois puis, revenant à la réalité, je l'ai éteint.  
 \- Rey, voici ton nouveau sabre-laser. Je te l'offre.  
-Je ne savais pas quelle attitude adopter. Devais-je être ravie par ce cadeau que me faisait Ben, ou plutôt fière face à ses hommes ? J'ai avalé ma salive et, le visage fier, je l'ai remercié en essayant de mettre toute ma gratitude dans mon regard.  
+Je ne savais pas quelle attitude adopter. Devais-je être ravie par ce cadeau que me faisait Ben, ou plutôt fière face à ses hommes ? J'ai avalé ma salive et, le visage fier, je l'ai remercié en essayant de mettre toute ma gratitude dans le regard.  
 
 Puis son visage prit une grande fermeté et il se tourna vers ses hommes.
-\- Bien, maintenant, reprenons le problème du vaisseau. Glario, combien de temps nous reste-t-il avant que le vaisseau ne s'écrase sur Crait ?
+\- Bien, maintenant, reprenons le problème du vaisseau. Glario, combien de temps nous reste-t-il avant que'il ne s'écrase sur Crait ?
 \- Nos calculs sont formels, Suprême Leader. Six heures et vingt-six minutes, répondit l'ingénieur en regardant sa montre.  
-\- Général, je veux que tous les chars à bord du vaisseau soient évacués avant ce délai.  
+\- Général, ordonna-t-il froidement, je veux que tous les chars à bord du vaisseau soient évacués avant ce délai.  
 \- Ce ne sera pas possible, Suprême Leader. Car même si tous les hommes s'en occup...  
 Il n'eut pas le temps de terminer sa phrase. Ben refusant d'être contredit tendit son bras et le propulsa quelques mètres plus loin. Puis sans s'occuper du général, il reprit la parole.  
 \- Glario, trouvez une solution pour que le reste du vaisseau ne s'écrase pas. Mais surtout je veux que le maximum de ressources à bord de la partie en perdition soit récupéré. Que tous les services s'en chargent ! termina-t-il sur un ton très autoritaire et déterminé.  
