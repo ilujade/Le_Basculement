@@ -259,7 +259,7 @@ Nous nous engageâmes dans un couloir et, après un virage, je vis une grande po
 \- Altesse, voici la porte de la salle d'audience du Suprême Leader. Une fois celle-ci passée, elle se fermera puis l'accès vous sera dégagé, m'expliqua le lieutenant.  
 Il appuya sur un bouton et la porte se leva alors, doucement. Je découvris une seconde porte deux mètres plus loin.  
 Je sentais de l'hésitation s'installer en moi. Mais mon rôle m'empêchait de le montrer. Je me suis avancée et ai franchi la première porte. Elle se referma. Toute seule dans ce sas, j'entendis soudain un bruit de grincement. Mais la porte devant moi ne bougeait pas. Après quelques instants d'écoute, je me suis aperçue que ce bruit venait d'au-dessus de moi. Il s'agissait d'une plaque horizontale qui reculait. Elle permettait à la porte face à moi de se lever tout en bloquant celle que je venais de franchir. Une fois cette plaque stoppée, la porte s'ouvrit, me permettant ainsi de pénétrer dans la salle d'audience.  
-Cette salle d'audience dans laquelle Ben avait réussi à se retourner contre Snoke. Cette salle où tous les deux nous avions affrontés la garde impériale. Cette salle où Ben prit une très mauvaise décision.
+Cette salle d'audience dans laquelle Ben avait réussi à se retourner contre Snoke. Cette salle où tous les deux nous avions affronté la garde prétorienne. Cette salle où Ben prit une très mauvaise décision.
 
 À ma grande surprise, la salle était différente. Il n'y avait pas de rouge. La salle n'était pas ronde. 
 Mais je n'eus pas le temps d'observer plus en détail cette pièce. Ben, qui discutait avec quatre hommes m'aperçut. Avec un ton sec, il leur ordonna de se taire et s'avança vers moi. Il n'avait pas le regard doux de la veille.  
