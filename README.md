@@ -1,6 +1,8 @@
 # Le basculement
 
-Cette fanfiction de Star Wars commence après la mort du Grand Snoke et le combat de Kylo Ren et Rey contre la garde prétorienne dans le film _The Last Jedi_.  
+Cette fanfiction de Star Wars est basée uniquement sur les films. Aucune information fournie par un autre support - novélisation, documentaire, base de données officielle, ... - n'est utilisée.
+
+Le récit commence après la mort du Grand Snoke et le combat de Kylo Ren et Rey contre la garde prétorienne dans le film _The Last Jedi_. 
 Rey, qui raconte l'histoire, est repartie et a rejoint Chewie à bord du Faucon Millenium.
 
 ## Chapitre 1
@@ -129,7 +131,7 @@ Il se retourna vers moi, le regard noir et profond. Sans le quitter des yeux, j'
 \- Rey, ne m'appelle plus jamais comme ça devant mes hommes ! me dit-il sèchement à voix basse une fois arrivé devant moi.  
 \- Quoi ?! mais comment alors ? lui demandai-je, sachant que jamais je ne l'appellerais Suprême Leader, même s'il me l'ordonnait.  
 \- Kylo. Ici, je suis Kylo Ren. me répondit-il gravement.  
-\- Bien, fis-je à contre-coeur. Kylo, j'ai trouvé une autre solution. Une solution qui pourrait mettre la galaxie à tes pieds.  
+\- Bien, fis-je à contrecœur. Kylo, j'ai trouvé une autre solution. Une solution qui pourrait mettre la galaxie à tes pieds.  
 
 Il fut étonné. Étonné de voir le soutien que je lui apportais déjà dans la lutte contre les Résistants, qui étaient encore mes alliés il y a quelques heures. Le général Hux s'approcha, méfiant.  
 \- Explique-toi, me demanda Ben, intéressé.  
@@ -167,11 +169,11 @@ Nous sortîmes du vaisseau, lui devant. Sa dernière phrase résonnait en moi. _
 \- Tu m'as juré de toujours me soutenir, n'est-ce pas ? me fit-il remarquer. J'ai confiance en toi, Rey. Prends mon sabre-laser et détourne tous les tirs dans notre direction.  
 En entendant ces paroles, j'ai eu un brutal étonnement. Je l'ai regardé puis me suis arrêtée de marcher. Ne me voyant plus à ses côtés, Ben se retourna et vis que j'étais quelques pas derrière, stupéfaite.  
 \- Rey, je ne plaisante pas, affirma-t-il. Tiens, voici mon arme. Je te la prête. Car, en plus de sauver nos vies en l'utilisant, tu prouveras à tout le monde que tu es mon alliée.  
-Je pris son arme et nous repartîmes vers la porte. Mon coeur battait de plus en plus fort, résonnait dans tout mon corps. Je sentis l'inquiétude et la compassion s'installer sur mon visage. Et cela, ce n'était désormais plus possible. Je me suis alors bien concentrée sur ce qui allait se passer et me rendis compte que mon visage devenait plus ferme, mon regard plus noir. J'en étais satisfaite. Non pas parce que c'est ce que je souhaitais devenir intérieurement, mais parce que je commençais à jouer le rôle que je devais jouer auprès de Ben.
+Je pris son arme et nous repartîmes vers la porte. Mon cœur battait de plus en plus fort, résonnait dans tout mon corps. Je sentis l'inquiétude et la compassion s'installer sur mon visage. Et cela, ce n'était désormais plus possible. Je me suis alors bien concentrée sur ce qui allait se passer et me rendis compte que mon visage devenait plus ferme, mon regard plus noir. J'en étais satisfaite. Non pas parce que c'est ce que je souhaitais devenir intérieurement, mais parce que je commençais à jouer le rôle que je devais jouer auprès de Ben.
 
 Arrivés à bonne distance de la porte, nous nous sommes arrêtés, face à elle. La tête droite, fière, j'ai allumé le sabre-laser. Ben prit alors la parole :  
 \- Résistants, votre avenir est désormais entre mes mains ! Vous ne pouvais plus vous échapper !  
-Un Résistant tira sur Ben, mais grâce au sabre-laser, je pus le dévier et Ben ne fut pas touché. D'autres tirs partirent alors mais furent eux aussi stopper par mon arme. Par un simple regard, Ben et moi comprîmes que le moment était venu. Il tendit ses bras devant lui et commença un terrible effort pour soulever la porte. Celle-ci ne bougeait pas. Je sentais Ben perdre l'espoir de réussir et commencer à regretter d'avoir suivi mon plan. Entre deux tirs, je l'ai encouragé en lui affirmant que si, il pouvait le faire. De longues secondes s'écoulèrent. Mais rien. Je commençais moi aussi à douter. Quand soudain, la porte se mit à frémir puis monter doucement et s'ouvrir. Jetant de temps en temps des coups d'oeil à Ben, je vis que celui-ci avait repris toute confiance dans mon plan et que sa puissance avait presque doublé.  
+Un Résistant tira sur Ben, mais grâce au sabre-laser, je pus le dévier et Ben ne fut pas touché. D'autres tirs partirent alors mais furent eux aussi stopper par mon arme. Par un simple regard, Ben et moi comprîmes que le moment était venu. Il tendit ses bras devant lui et commença un terrible effort pour soulever la porte. Celle-ci ne bougeait pas. Je sentais Ben perdre l'espoir de réussir et commencer à regretter d'avoir suivi mon plan. Entre deux tirs, je l'ai encouragé en lui affirmant que si, il pouvait le faire. De longues secondes s'écoulèrent. Mais rien. Je commençais moi aussi à douter. Quand soudain, la porte se mit à frémir puis monter doucement et s'ouvrir. Jetant de temps en temps des coups d’œil à Ben, je vis que celui-ci avait repris toute confiance dans mon plan et que sa puissance avait presque doublé.  
 \- Rey, ordonne à mes hommes d'intervenir !  
 Je me suis retournée un instant pour faire signe au général que l'assaut pouvait être lancé. Je vis les Stormtroopers commencer à avancer. Hélas, je suis restée un instant de trop tournée vers l'arrière et je sentis un choc. Je venais d'être touchée. La douleur était si aigüe que je n'ai pas pu définir l'endroit de la blessure. Je suis alors tombée et ai perdu connaissance, sans pouvoir voir la fin de la bataille.
 
@@ -231,7 +233,7 @@ Ben desserra alors sa main autour du cou du médecin. Mais il ne le relâcha pas
 \- Suprême Leader, la blessure de votre alliée aurait dû la tuer. Mais, par miracle, elle a su y résister. Grâce à sa volonté de vivre. Nous n'avions jamais observé une telle puissance de volonté.  
 
 Je n'arrivais pas à croire ce que les médecins venaient de dire. Ma volonté de vivre avait vaincu la mort ? Non, ce n'était pas possible. Penser que j'étais la première à avoir résister à la mort ainsi m'effrayait. Je voulait observer la réaction des médecins mais ils me tournaient le dos, face à Ben. Lui aussi paraissait intrigué par cette nouvelle. Intrigué, mais non inquiet.  
-Il me regarda et vit dans mes yeux la panique et la peur. Il se rapprocha alors de moi et posa sa main sur la mienne pour me rassurer. Son visage exprimait de l'admiration. Mais pas l'admiration qu'un enfant impressionné pouvait avoir face à un grand Maître. C'était différent. Plus doux, plus compatissant. Le voir réagir ainsi me fit chaud au coeur. Ces émotions prouvaient qu'il y avait encore du bon en lui. Que je pouvais garder espoir et le ramener un jour vers la lumière. Que j'avais fait le bon choix.  
+Il me regarda et vit dans mes yeux la panique et la peur. Il se rapprocha alors de moi et posa sa main sur la mienne pour me rassurer. Son visage exprimait de l'admiration. Mais pas l'admiration qu'un enfant impressionné pouvait avoir face à un grand Maître. C'était différent. Plus doux, plus compatissant. Le voir réagir ainsi me fit chaud au cœur. Ces émotions prouvaient qu'il y avait encore du bon en lui. Que je pouvais garder espoir et le ramener un jour vers la lumière. Que j'avais fait le bon choix.  
 Reprenant un visage plus ferme, il se tourna vers les médecins.  
 \- Combien de temps la guérison de la blessure durera-t-elle ?  
 \- Suprême Leader, vue la résistance de votre alliée, elle pourra sortir dès demain, répondit un des médecins en regardant ses collègues qui affirmèrent. Cependant, elle devra revenir faire des contrôles quotidiennement pendant une dizaine de jours, termina-t-il en se tournant vers moi.  
