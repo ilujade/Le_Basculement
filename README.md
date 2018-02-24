@@ -302,3 +302,82 @@ Il n'eut pas le temps de terminer sa phrase. Ben refusant d'être contredit tend
 \- Glario, trouvez une solution pour que le reste du vaisseau ne s'écrase pas. Mais surtout je veux que le maximum de ressources à bord de la partie en perdition soit récupéré. Que tous les services s'en chargent ! termina-t-il sur un ton très autoritaire et déterminé.  
 Ses hommes s'inclinèrent puis partirent exécuter les ordres.  
 Une fois seuls, je voulus demander à Ben quel était le problème de ce vaisseau en perdition. Mais quand je l'ai regardé, j'ai vu qu'il était nerveux. Était-ce dû à la situation du vaisseau ? à l'ardeur qu'il mettait pour prouver qu'il était un grand chef ?
+
+## Chapitre 5
+J'ai préféré laisser Ben un moment seul, dans ses pensées, afin qu'il puisse se calmer. Pendant ce temps-là, j'ai essayé d'être la plus discrète possible. J'observais la salle autour de moi. Cette salle que je ne reconnaissais pas. Je lançai quelques regards à Ben pour voir s'il s'était calmé. Au bout d'un moment, je me suis approchée de lui.  
+\- Ben, ça va ? Que se passe-t-il ? Tu sembles très nerveux...  
+\- Oh, Rey, me fit-il en me regardant, contrarié. Cette histoire de vaisseau me prend la tête. Et j'ai l'impression que certains de mes hommes riraient de voir que je n'arrive pas à le sauver.  
+\- Ben, quelle est l'histoire de ce vaisseau en perdition ?  
+\- Viens voir.  
+
+Il se leva et alla vers un des murs de la salle. Je le suivis. Il appuya sur un bouton dissimulé et un pan du mur se leva, dévoilant une grande vitre donnant sur l'espace. Ce que je vis me coupa le souffle. C'était un grand vaisseau triangulaire et dont une des ailes était coupée en deux. On aurait dit... le vaisseau de Snoke !  
+\- Ben, c'est... c'est le vaisseau de...  
+\- ... de Snoke, oui.  
+\- Mais qu'est-ce qui s'est passé ?  
+\- Ça, c'est à cause des Résistants. Ils ont débarqué sur Crait et Snoke les bombardait. Une personne était restée à bord de leur grand vaisseau. Cette personne a préféré se sacrifier pour la Résistance : elle a activé le mode vitesse-lumière, a fait demi-tour et a foncé droit dans le vaisseau de Snoke.  
+\- Quoi ?! Oh la la... fis-je tout à coup. Mais alors, on n'est pas dans le vaisseau de Snoke ?  
+\- Non, Rey. Ici, nous sommes dans _mon_ vaisseau, pas dans celui de Snoke. Mes hommes font tout pour le récupérer.  
+\- Pourquoi ?! C'est impossible à récupérer un vaisseau pareil !  
+\- Snoke était le Suprême Leader, Rey. Maintenant, c'est moi, fit-il avec la voix grave.  
+Oh, non. Il pensait encore à ça. À cette idée de pouvoir qu'a le Suprême Leader.
+
+Soudain, je me suis dit que, si nous n'étions pas dans le vaisseau de Snoke, ce n'est pas dans cette salle que nous avons affronté la garde prétorienne !  
+\- Ben, donc ici nous sommes dans _ton_ vaisseau ?  
+\- Oui Rey. Je viens de te le dire. Pourquoi ? me fit-il en tournant la tête vers moi.  
+\- Ce n'est pas ici que nous...  
+\- Non Rey. Ce n'est pas ici.
+Nous nous tournâmes alors tous les deux face à la vitre. Face au vaisseau en perdition. Et pendant un moment nous le regardâmes.  
+Puis Ben reprit la parole.  
+\- Rey, viens. Il faut que je te montre ta chambre.  
+Ma chambre ? me dis-je. C'est vrai, je n'étais plus à l'infirmerie maintenant.  
+\- Allez, viens. Suis-moi, répéta-t-il.  
+
+Nous traversâmes la salle du trône puis passâmes les deux portes. Dans le couloir, il y avait un ascenseur. Nous montâmes dedans. Il démarra et descendit plusieurs étages. En sortant, nous nous sommes retrouvés dans un grand couloir. Très large. Très haut. Et juste devant nous, une porte. Une grande porte.  
+\- Rey, c'est ici.  
+Il posa sa main sur un détecteur. La porte se mit à glisser pour nous libérer le passage.  
+Il me laissa entrer la première dans la pièce. Je fus étonnée. Cette salle était très grande ! D'un côté, je vis des fauteuils avec une petite table. Et juste à gauche de la porte, un pan de mur pour séparer la pièce en deux. Je me suis avancée pour mieux observer. Cette pièce était ma chambre ? Ce n'était pas possible ! Une pièce si grande n'est pas une chambre ! Je suis allée voir derrière le pan de mur. Il y avait un lit. Un grand lit.  
+Puis je me suis retournée pour revenir près des fauteuils. Ben avait fermé la porte. Il attendait.  
+\- Ben, c'est... c'est ça ma chambre ?  
+\- Oui, Rey. Dès que tu es arrivée à l'infirmerie, j'ai ordonné à mes hommes d'aménager cette pièce pour toi, me répondit-il sur un ton bienveillant.  
+\- Quoi ? Tu as demandé à tes hommes de m'aménager une chambre ?  
+\- Oui, Rey. Il te fallait une bien chambre, non ? Et ce vaisseau n'a pas été conçu pour accueillir des invités.  
+
+J'ai continué à regarder autour de moi. Je me suis aperçue qu'il y avait une autre porte, dans le mur opposé à la porte d'entrée.  
+\- Ben, il y a une autre porte, là. Où donne-t-elle ?  
+\- À ma chambre.  
+\- À ta chambre ? répétai-je lentement, surprise par sa réponse.  
+\- Rey, je viens de te dire. Ce vaisseau n'a pas été conçu pour accueillir des invités. Je ne voulais que tu dormes dans une aile réservée à mes hommes. Ici, ce sont mes appartements. C'est pourquoi j'ai donné l'ordre d'aménager une chambre pour toi dans ma salle à manger.  
+\- Dans ta salle à manger ? répétai-je, surprise. Tu n'as plus de salle à manger alors ?  
+\- Je l'ai transférée ailleurs, me répondit-il gentiment.  
+Cette phrase me soulagea. Pendant un instant, j'ai cru que les repas allaient se passer dans ma chambre... Mais une autre idée arriva : si sa chambre était derrière cette porte, il devrait traverser la mienne pour sortir dans le couloir !  
+\- Ben, tu dis que cette porte mène à ta chambre, comment... euh, tu devras alors passer par ma chambre pour entrer et sortir ?  
+\- Non, rassures-toi, répondit-il avec un petit sourire. Dans ma chambre, j'avais une porte dérobée. Mais mes hommes l'ont transformée afin qu'elle devienne la porte principale de ma chambre.  
+\- Ben, tu veux dire que tu as aménagé ta salle à manger pour me faire une chambre et que tu as dévoilé l'existence d'une porte dérobée dans la tienne pour moi ?  
+\- Rey, je t'ai déjà dit, répondit-il avec un regard profond. Pour moi, tu n'es pas rien.  
+
+J'ai voulu prendre la parole, mais au lieu de parler, je me suis mise à bailler.
+\- Aaah... pardon Ben.  
+\- Non, Rey. Même si les médecins t'ont fait sortir, je crois que tu devrais te reposer encore un peu. Reste ici. Je vais aller voir mes hommes. Toi, repose-toi. Je viendrai te chercher pour le repas.  
+\- D'accord. Merci Ben.  
+\- C'est à moi de te remercier Rey. Remercier d'être venue à mes côtés.  
+
+Je voyais qu'aucun de nous deux n'osait faire le premier pas. Je ne savais plus où regarder. Alors, je me suis tournée vers la partie de ma chambre où se trouvait mon lit. J'entendis Ben se diriger vers la porte. Arrivée au pan de mur séparant mon lit du reste de la pièce, je me suis tournée vers la porte d'entrée et j'ai vu que Ben ne l'avait pas encore franchie. Il s'était arrêté devant. Il me lança un dernier regard puis partit.  
+Je me suis allongée sur mon lit. Soudain, une question traversa mon esprit. Ben venait me chercher pour manger, mais si je dormais, qu'allait-il faire ? Me laisser dormir ? Venir me réveiller, ici ? Oh non, il ne fallait pas que je m'endorme ! Je devais me reposer, mais pas dormir... Je me suis mise alors à penser à tout et à rien en luttant contre le sommeil. Je repensais à Jakku, à Crait, à Leia, BB-8, Finn, Luke. À tout ce qui s'était passé en si peu de temps...  
+
+Un peu plus tard, un grésillement me réveilla. Finalement je m'étais endormie. J'ai levé la tête pour voir d'où venait ce petit bruit. Je vis alors une machine à côté du lit avec plusieurs petites diodes. La verte était allumée.  
+\- Rey ! Rey ! Tu m'entends ?  
+C'était la voix de Ben. Et à chaque mot prononcé, la diode clignotait.  
+\- Oui, Ben, c'est moi ! répondis-je en baillant.  
+\- Rey, est-ce que tu m'entends ? Si oui, regarde la machine à côté de ton lit. Regarde la diode verte.  
+\- Oui, oui. Je vois.  
+\- Si tu m'entends, appuie sur le bouton vert en-dessous. Cela déclenchera le micro. Je pourrai t'entendre.  
+Je me suis empressée de suivre les indications.  
+\- Ben, oui ? prononçai-je lentement, encore un peu endormie.  
+\- Ah, Rey. Tu es réveillée ?  
+\- Oui...   
+\- Prépare-toi tranquillement. Je t'attendrai dans ma chambre. Tu n'auras qu'à frapper à ma porte.  
+\- D'accord, Ben.  
+Puis la lumière verte s'éteignit. Je me suis rallongée sur le dos. Ben avait pensé à mettre un système de communication autre que visuel dans ma chambre. Ce geste me soulageait. Je me suis relevée et ai remis mes habits correctement. Puis face au miroir, je me suis recoiffée.  
+J'ai traversé la pièce et me suis approchée de la porte menant à la chambre de Ben. J'ai frappé. J'entendis un fauteuil bouger et des pas. Puis la porte s'ouvrit et Ben apparut.  
+\- Rey, tu t'es bien reposée ?  
+J'ai hoché la tête pour acquiescer. Il m'invita à faire demi-tour et nous sortîmes dans le couloir par la porte de ma chambre.

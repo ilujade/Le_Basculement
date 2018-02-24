@@ -261,7 +261,7 @@ Nous nous engageâmes dans un couloir et, après un virage, je vis une grande po
 \- Altesse, voici la porte de la salle d'audience du Suprême Leader. Une fois celle-ci passée, elle se fermera puis l'accès vous sera dégagé, m'expliqua le lieutenant.  
 Il appuya sur un bouton et la porte se leva alors, doucement. Je découvris une seconde porte deux mètres plus loin.  
 Je sentais de l'hésitation s'installer en moi. Mais mon rôle m'empêchait de le montrer. Je me suis avancée et ai franchi la première porte. Elle se referma. Toute seule dans ce sas, j'entendis soudain un bruit de grincement. Mais la porte devant moi ne bougeait pas. Après quelques instants d'écoute, je me suis aperçue que ce bruit venait d'au-dessus de moi. Il s'agissait d'une plaque horizontale qui reculait. Elle permettait à la porte face à moi de se lever tout en bloquant celle que je venais de franchir. Une fois cette plaque stoppée, la porte s'ouvrit, me permettant ainsi de pénétrer dans la salle d'audience.  
-Cette salle d'audience dans laquelle Ben avait réussi à se retourner contre Snoke. Cette salle où tous les deux nous avions affrontés la garde impériale. Cette salle où Ben prit une très mauvaise décision.
+Cette salle d'audience dans laquelle Ben avait réussi à se retourner contre Snoke. Cette salle où tous les deux nous avions affronté la garde impériale. Cette salle où Ben prit une très mauvaise décision.
 
 À ma grande surprise, la salle était différente. Il n'y avait pas de rouge. La salle n'était pas ronde. 
 Mais je n'eus pas le temps d'observer plus en détail cette pièce. Ben, qui discutait avec quatre hommes m'aperçut. Avec un ton sec, il leur ordonna de se taire et s'avança vers moi. Il n'avait pas le regard doux de la veille.  
@@ -289,12 +289,12 @@ Je sentis de l'étonnement passer dans mon regard. Mais Ben reprit tout de suite
 \- Elle aussi maîtrise la Force. Le Général Hux et le Médecin-Chef Ferta peuvent en témoigner, ajouta-t-il sur un ton aussi calme qu'autoritaire.  
 
 Il posa la main sur son sabre-laser, accroché à sa ceinture. Il le détacha. Ses hommes commençaient à s'inquiéter. Son arme à la main, il se tourna vers moi. Et alors, à ma grande surprise, il me le tendit.  
-Après quelques instants de stupeur, j'ai levé doucement la main. Son regard insistant me poussa à prendre l'arme. Il la lâcha. Je l'ai regardé et me suis aperçue qu'il ne s'agissait pas de son sabre-laser. Ni de celui de Luke. Je l'ai allumé et vis qu'il était bleu. Je l'ai tourné autour de moi plusieurs fois puis, revenant à la réalité, je l'ai éteint.  
+Après quelques instants de stupeur, j'ai levé doucement la main. Son regard insistant me poussa à prendre l'arme. Il la lâcha. Je l'ai regardée et me suis aperçue qu'il ne s'agissait pas de son sabre-laser. Ni de celui de Luke. Je l'ai allumé et vis qu'il était bleu. Je l'ai tourné autour de moi plusieurs fois puis, revenant à la réalité, je l'ai éteint.  
 \- Rey, voici ton nouveau sabre-laser. Je te l'offre.  
 Je ne savais pas quelle attitude adopter. Devais-je être ravie par ce cadeau que me faisait Ben, ou plutôt fière face à ses hommes ? J'ai avalé ma salive et, le visage fier, je l'ai remercié en essayant de mettre toute ma gratitude dans le regard.  
 
-Puis son visage prit une grande fermeté et il se tourna vers ses hommes.
-\- Bien, maintenant, reprenons le problème du vaisseau. Glario, combien de temps nous reste-t-il avant que'il ne s'écrase sur Crait ?
+Puis son visage prit une grande fermeté et il se tourna vers ses hommes.  
+\- Bien, maintenant, reprenons le problème du vaisseau. Glario, combien de temps nous reste-t-il avant qu'il ne s'écrase sur Crait ?  
 \- Nos calculs sont formels, Suprême Leader. Six heures et vingt-six minutes, répondit l'ingénieur en regardant sa montre.  
 \- Général, ordonna-t-il froidement, je veux que tous les chars à bord du vaisseau soient évacués avant ce délai.  
 \- Ce ne sera pas possible, Suprême Leader. Car même si tous les hommes s'en occup...  
@@ -305,23 +305,23 @@ Une fois seuls, je voulus demander à Ben quel était le problème de ce vaissea
 
 ## Chapitre 5
 J'ai préféré laisser Ben un moment seul, dans ses pensées, afin qu'il puisse se calmer. Pendant ce temps-là, j'ai essayé d'être la plus discrète possible. J'observais la salle autour de moi. Cette salle que je ne reconnaissais pas. Je lançai quelques regards à Ben pour voir s'il s'était calmé. Au bout d'un moment, je me suis approchée de lui.  
-\- Ben, ça va ? que se passe-t-il ? Tu me sembles très nerveux...  
-\- Oh, Rey, me fit-il en me regardant. Cette histoire de vaisseau me prend la tête et j'ai l'impression que certains de mes hommes riraient de voir que je n'arrive pas à le sauver.  
+\- Ben, ça va ? Que se passe-t-il ? Tu sembles très nerveux...  
+\- Oh, Rey, me fit-il en me regardant, contrarié. Cette histoire de vaisseau me prend la tête. Et j'ai l'impression que certains de mes hommes riraient de voir que je n'arrive pas à le sauver.  
 \- Ben, quelle est l'histoire de ce vaisseau en perdition ?  
 \- Viens voir.  
 
 Il se leva et alla vers un des murs de la salle. Je le suivis. Il appuya sur un bouton dissimulé et un pan du mur se leva, dévoilant une grande vitre donnant sur l'espace. Ce que je vis me coupa le souffle. C'était un grand vaisseau triangulaire et dont une des ailes était coupée en deux. On aurait dit... le vaisseau de Snoke !  
-\- Ben, c'est... c'est le vaisseau de ...  
+\- Ben, c'est... c'est le vaisseau de...  
 \- ... de Snoke, oui.  
 \- Mais qu'est-ce qui s'est passé ?  
 \- Ça, c'est à cause des Résistants. Ils ont débarqué sur Crait et Snoke les bombardait. Une personne était restée à bord de leur grand vaisseau. Cette personne a préféré se sacrifier pour la Résistance : elle a activé le mode vitesse-lumière, a fait demi-tour et a foncé droit dans le vaisseau de Snoke.  
-\- Quoi ?! Oh la la... fis-je tout à coup. Alors on n'est pas le vaisseau de Snoke alors ?  
+\- Quoi ?! Oh la la... fis-je tout à coup. Mais alors, on n'est pas dans le vaisseau de Snoke ?  
 \- Non, Rey. Ici, nous sommes dans _mon_ vaisseau, pas dans celui de Snoke. Mes hommes font tout pour le récupérer.  
-\- Pourquoi ??? C'est impossible à récupérer un vaisseau pareil !  
+\- Pourquoi ?! C'est impossible à récupérer un vaisseau pareil !  
 \- Snoke était le Suprême Leader, Rey. Maintenant, c'est moi, fit-il avec la voix grave.  
 Oh, non. Il pensait encore à ça. À cette idée de pouvoir qu'a le Suprême Leader.
 
-Mais soudain, je me suis dit que, si nous n'étions pas dans le vaisseau de Snoke, ce n'est pas dans cette salle que nous avons affronté la garde prétorienne !  
+Soudain, je me suis dit que, si nous n'étions pas dans le vaisseau de Snoke, ce n'est pas dans cette salle que nous avons affronté la garde prétorienne !  
 \- Ben, donc ici nous sommes dans _ton_ vaisseau ?  
 \- Oui Rey. Je viens de te le dire. Pourquoi ? me fit-il en tournant la tête vers moi.  
 \- Ce n'est pas ici que nous...  
@@ -329,55 +329,130 @@ Mais soudain, je me suis dit que, si nous n'étions pas dans le vaisseau de Snok
 Nous nous tournâmes alors tous les deux face à la vitre. Face au vaisseau en perdition. Et pendant un moment nous le regardâmes.  
 Puis Ben reprit la parole.  
 \- Rey, viens. Il faut que je te montre ta chambre.  
-Ma chambre ? C'est vrai, je n'étais plus à l'infirmerie maintenant.  
+Ma chambre ? me dis-je. C'est vrai, je n'étais plus à l'infirmerie maintenant.  
 \- Allez, viens. Suis-moi, répéta-t-il.  
 
-Nous traversâmes la salle du trône puis passâmes les deux portes. Dans le couloir, il y avait un ascenseur. Nous montâmes dedans et descendîmes plusieurs étages. En sortant, nous nous sommes retrouvés dans un grand couloir. Très large. Très haut. Et juste devant nous, une porte. Une grande porte.  
+Nous traversâmes la salle du trône puis passâmes les deux portes. Dans le couloir, il y avait un ascenseur. Nous montâmes dedans. Il démarra et descendit plusieurs étages. En sortant, nous nous sommes retrouvés dans un grand couloir. Très large. Très haut. Et juste devant nous, une porte. Une grande porte.  
 \- Rey, c'est ici.  
-Il posa sa main sur un détecteur et cette porte s'ouvrit.  
-Il me laissa entrer la première dans la pièce. Je fus étonnée. Cette salle était très grande ! D'un côté, je vis des fauteuils avec une petite table. Et à gauche, un pan de mur pour séparer la pièce en deux. J'ai avancé pour mieux observer. Cette pièce était ma chambre ? Ce n'était pas possible ! Je suis allée voir derrière le pan de mur. Il y avait un lit. Un grand lit.  
+Il posa sa main sur un détecteur. La porte se mit à glisser pour nous libérer le passage.  
+Il me laissa entrer la première dans la pièce. Je fus étonnée. Cette salle était très grande ! D'un côté, je vis des fauteuils avec une petite table. Et juste à gauche de la porte, un pan de mur pour séparer la pièce en deux. Je me suis avancée pour mieux observer. Cette pièce était ma chambre ? Ce n'était pas possible ! Une pièce si grande n'est pas une chambre ! Je suis allée voir derrière le pan de mur. Il y avait un lit. Un grand lit.  
 Puis je me suis retournée pour revenir près des fauteuils. Ben avait fermé la porte. Il attendait.  
-\- Ben, c'est ça ma chambre ?  
-\- Oui, Rey. Dès que tu es arrivée à l'infirmerie, j'ai ordonné à mes hommes d'aménager cette pièce pour toi.  
-\- Quoi ? Tu as demandé à tes hommes d'aménager une pièce pour moi ?  
-\- Oui, Rey. Tu sais, ce vaisseau n'a pas été conçu pour accueillir des invités.  
+\- Ben, c'est... c'est ça ma chambre ?  
+\- Oui, Rey. Dès que tu es arrivée à l'infirmerie, j'ai ordonné à mes hommes d'aménager cette pièce pour toi, me répondit-il sur un ton bienveillant.  
+\- Quoi ? Tu as demandé à tes hommes de m'aménager une chambre ?  
+\- Oui, Rey. Il te fallait une bien chambre, non ? Et ce vaisseau n'a pas été conçu pour accueillir des invités.  
 
-Ébahie par ce que je venais d'entendre, j'ai continué à regarder autour de moi. Je me suis aperçue qu'il y avait une autre porte, dans le mur opposé à la porte d'entrée.  
-\- Ben, il y a une autre porte ? Où donne-t-elle ?  
+J'ai continué à regarder autour de moi. Je me suis aperçue qu'il y avait une autre porte, dans le mur opposé à la porte d'entrée.  
+\- Ben, il y a une autre porte, là. Où donne-t-elle ?  
 \- À ma chambre.  
 \- À ta chambre ? répétai-je lentement, surprise par sa réponse.  
-\- Rey, je viens de te dire. Ce vaisseau n'a pas été conçu pour accueillir des invités. Ici, ce sont mes appartements. Je ne voulais que tu dormes dans une aile réservée à mes hommes. C'est pourquoi j'ai donné l'ordre d'aménager une chambre pour toi dans ma salle à manger.  
-\- Mais... donc, en fait, tu n'as plus de salle à manger ?  
-\- Je l'ai transférée ailleurs.  
+\- Rey, je viens de te dire. Ce vaisseau n'a pas été conçu pour accueillir des invités. Je ne voulais que tu dormes dans une aile réservée à mes hommes. Ici, ce sont mes appartements. C'est pourquoi j'ai donné l'ordre d'aménager une chambre pour toi dans ma salle à manger.  
+\- Dans ta salle à manger ? répétai-je, surprise. Tu n'as plus de salle à manger alors ?  
+\- Je l'ai transférée ailleurs, me répondit-il gentiment.  
 Cette phrase me soulagea. Pendant un instant, j'ai cru que les repas allaient se passer dans ma chambre... Mais une autre idée arriva : si sa chambre était derrière cette porte, il devrait traverser la mienne pour sortir dans le couloir !  
-\- Ben, tu dis que cette porte mène à ta chambre, comment... euh, tu devras passer par ma chambre ?  
-\- Non, rassures-toi. Dans ma chambre, j'avais aussi une porte dérobée. Mais mes hommes l'ont transformée afin qu'elle devienne la porte principale de ma chambre.  
+\- Ben, tu dis que cette porte mène à ta chambre, comment... euh, tu devras alors passer par ma chambre pour entrer et sortir ?  
+\- Non, rassures-toi, répondit-il avec un petit sourire. Dans ma chambre, j'avais une porte dérobée. Mais mes hommes l'ont transformée afin qu'elle devienne la porte principale de ma chambre.  
 \- Ben, tu veux dire que tu as aménagé ta salle à manger pour me faire une chambre et que tu as dévoilé l'existence d'une porte dérobée dans la tienne pour moi ?  
 \- Rey, je t'ai déjà dit, répondit-il avec un regard profond. Pour moi, tu n'es pas rien.  
 
-J'ai voulu prendre la parole, mais au lieu de parler, je me suis mise à bailler.
-\- Aaah.. pardon Ben.  
+J'ai voulu prendre la parole, mais au lieu de parler, je me suis mise à bailler.  
+\- Aaah... pardon Ben.  
 \- Non, Rey. Même si les médecins t'ont fait sortir, je crois que tu devrais te reposer encore un peu. Reste ici. Je vais aller voir mes hommes. Toi, repose-toi. Je viendrai te chercher pour le repas.  
 \- D'accord. Merci Ben.  
 \- C'est à moi de te remercier Rey. Remercier d'être venue à mes côtés.  
 
-Je voyais qu'aucun de nous deux n'osait faire le premier pas. Je ne savais plus où regarder. Alors, je me suis tournée vers la partie de ma chambre où se trouvait mon lit. J'entendis Ben se diriger vers la porte. Arrivée au pan de mur séparant mon lit du reste de la pièce, je me suis tournée vers la porte d'entrée et j'ai vu que Ben ne l'avait pas encore franchie. Il s'était devant. Il me lança un dernier regard puis partit.  
-Je me suis allongée et commençais à me reposer. Soudain, une question traversa mon esprit. Ben venait me chercher pour manger, mais si je dormais, qu'allait-il faire ? Me laisser dormir ? Venir me réveiller, ici ? Oh non, il ne fallait pas que je dorme ! Je devais me reposer, mais sans m'endormir... Je me suis mise alors à penser à tout et à rien en luttant contre le sommeil. Je repensais à Jakku, à Crait, à Leia, BB-8, Finn, Luke.  
+Je voyais qu'aucun de nous deux n'osait faire le premier pas. Je ne savais plus où regarder. Alors, je me suis tournée vers la partie de ma chambre où se trouvait mon lit. J'entendis Ben se diriger vers la porte. Arrivée au pan de mur séparant mon lit du reste de la pièce, je me suis tournée vers la porte d'entrée et j'ai vu que Ben ne l'avait pas encore franchie. Il s'était arrêté devant. Il me lança un dernier regard puis partit.  
+Je me suis allongée sur mon lit. Soudain, une question traversa mon esprit. Ben venait me chercher pour manger, mais si je dormais, qu'allait-il faire ? Me laisser dormir ? Venir me réveiller, ici ? Oh non, il ne fallait pas que je m'endorme ! Je devais me reposer, mais pas dormir... Je me suis mise alors à penser à tout et à rien en luttant contre le sommeil. Je repensais à Jakku, à Crait, à Leia, BB-8, Finn, Luke. À tout ce qui s'était passé en si peu de temps...  
 
-Un peu plus tard, un grésillement me réveilla. Finalement je m'étais endormie. J'ai levé la tête pour voir d'où venait ce petit bruit. Je vis alors une machine à côté du lit avec plusieurs petites diodes. La verte était allumée. J'entendis soudain :  
+Un peu plus tard, un grésillement me réveilla. Finalement je m'étais endormie. J'ai levé la tête pour voir d'où venait ce petit bruit. Je vis alors une machine à côté du lit avec plusieurs petites diodes. La verte était allumée.  
 \- Rey ! Rey ! Tu m'entends ?  
 C'était la voix de Ben. Et à chaque mot prononcé, la diode clignotait.  
-\- Oui, Ben, c'est moi ! fis-je en m'approchant de la machine.  
-\- Rey, est-ce que tu m'entends ? Si oui, regarde la machine à côté de ton lit ? Regarde la diode verte ?
+\- Oui, Ben, c'est moi ! répondis-je en baillant.  
+\- Rey, est-ce que tu m'entends ? Si oui, regarde la machine à côté de ton lit. Regarde la diode verte.  
 \- Oui, oui. Je vois.  
 \- Si tu m'entends, appuie sur le bouton vert en-dessous. Cela déclenchera le micro. Je pourrai t'entendre.  
-Je me suis empressée de suivre les indications de Ben. J'ai appuyé sur le bouton.  
-\- Ben, oui ?  
+Je me suis empressée de suivre les indications.  
+\- Ben, oui ? prononçai-je lentement, encore un peu endormie.  
 \- Ah, Rey. Tu es réveillée ?  
-\- Oui, répondis-je lentement, en baillant.  
+\- Oui...   
 \- Prépare-toi tranquillement. Je t'attendrai dans ma chambre. Tu n'auras qu'à frapper à ma porte.  
 \- D'accord, Ben.  
-Puis la lumière verte s'éteignit. Je me suis rallongée sur le dos. Ben avait pensé à mettre un système de communication autre que visuel dans ma chambre. Ce geste me soulageait. Il fallait que je me prépare. Je me suis relevée et remis mes habits correctement. Près du lit, il y avait un miroir et après avoir remis mes cheveux ébouriffés en place. Je sortis.
+Puis la lumière verte s'éteignit. Je me suis rallongée sur le dos. Ben avait pensé à mettre un système de communication autre que visuel dans ma chambre. Ce geste me soulageait. Je me suis relevée et ai remis mes habits correctement. Puis face au miroir, je me suis recoiffée.  
 J'ai traversé la pièce et me suis approchée de la porte menant à la chambre de Ben. J'ai frappé. J'entendis un fauteuil bouger et des pas. Puis la porte s'ouvrit et Ben apparut.  
 \- Rey, tu t'es bien reposée ?  
 J'ai hoché la tête pour acquiescer. Il m'invita à faire demi-tour et nous sortîmes dans le couloir par la porte de ma chambre.
+
+## Chapitre 6
+Nous prîmes l'ascenseur et nous descendîmes quelques étages. Quand les portes s'ouvrirent, des officiers attendaient pour le prendre. En nous voyant, ils se mirent tous les deux au garde à vous et nous laissèrent passer. Contrairement à tout à l'heure où les couloirs étaient vies, nous croisâmes plusieurs soldats. Des officers, des Stormtroopers. Et à chaque fois, ils se rangeaient des deux côtés du couloir, près du mur, au garde à vous, pour nous laisser passer.  
+Ben marchait vite, la tête haute, le regard fixe, droit devant lui. Puis il s'arrêta evant une porte et m'invita à rentrer dans la pièce. Cette pièce était magnifique. Elle était entièrement blanche. Il n'y avait aucun signe montrant que nous étions dans un vaisseau. Aucune plaque métallique grise, aucun boulon visible. Avec, au milieu, une belle table, balcnhe elle aussi.  
+Ben, derière moi, m'invita à m'asseoir. Puis il fit le tour de la table et s'assit, face à moi.  
+
+Un homme nous apporta les plats. Nous commençâmes à manger. L'atmosphère était assez silencieuse. Mais je ne savais pas quoi dire, ni où regarder. Je sentais que Ben était un peu pareil.Puis il leva la tête et m'adressa la parole.  
+\- Rey, tu as été impressionnante face à la garde prétorienne de Snoke. Cependant, il faut encore que tu apprennes beaucoup de chose à propos des combats et de la Force.  
+Quoi ? pensai-je.Voulait-il dire qu'il voulait m'enseigner la Force ? que je devinne son apprentie ? Jamais je ne basculerai du côté obscur. Et puis, il me parle de la garde prétorienne, certes. Mais il n'évoque pas les combats dans lesquels je lui ai tenu tête.  
+\- Rey, laisse-moi d'apprendre à te battre, et à maîtriser la Force.  
+\- Que veux-tu dire, Ben ? Tu veux... m'enseigner quoi ? Tu veux m'enseigner... la Force ?  
+\- Oui, Rey. Il faut que tu saches maîtriser la Force, que tu saches te battre. On ne sait jamais. Je ne veux pas te perdre lors d'un combat, m'avoua-t-il en me regardant dans les yeux.  
+\- Ben, je veux bien que tu m'aides à m'améliorer mes capacités au combat. Mais dis-toi que pour la Force, jamais tu ne m'enseigneras des partiques obscures.  
+\- Je n'ai pas dit ça, Rey. Je t'apprendrai à maîtriser la Force. Mais je respecte ton choix. Il faudra peut-être que je te montre certaines choses mais, rassures-toi, je respecte ton choix.  
+Puis le silence revint dans la salle.  
+
+Un peu plus tard, Ben reprit la parole.  
+\- Rey, après manger, je te ferai visiter le vaisseau et te présenterai à mes hommes.  
+\- D'accord, répondis-je calmement. Mais... te présenter à tes hommes ?  
+\- Tu es mon alliée, ne l'oublie pas. Tous mes hommes te doivent le respect. Et en tant que nouvelle alliée, il faut qu'ils te reconnaissent.  
+\- Me reconnaissent ? Tu ne leur as pas envoyé d'image de moi ?  
+\- Ce n'est pas pareil.  
+\- Comme tu veux, Ben.  
+
+À la fin du repas, nous sortîmes de la pièce. Et là, la visite du vaisseau commença.  
+Nous longeâmes plusieurs couloirs et entrâmes dans un grand laboratoire. Lors de notre entrée dans la salle, les ingénieurs levèrent la tête pour voir qui arrivait. Voaynt qu'il s'agissait de Ben, le Suprême Leader, tous se levèrent et Glario, l'ingénieur en chef se dirigea vers nous.  
+Arrivés au milieu de salle, nous nous arrêtâmes. Tous les ingénieurs étaient tournés vers nous, debout. J'avais un peu le ventre serré. Cela me rappeler le moment où Ben me présenta à ses quatre responsables dans la salle du trône. J'eassayais, encore une fois, de rester impassible, la tête haute. Je forcçais mon regard à se pas s'aventurer par curiosité sur toutes les tables, mais plutôt à observer les hommes. Mon regard fit le tour de la pièce, jusqu'à ce que Glario prenne la parole :  
+\- Suprême Leader, Altesse Rey, c'est un honneur de vous recevoir dans notre laboratoire, fit-il en s'inclinant.  
+Ben, très droit, répondit sur un ton fier et grave :  
+\- Ingénieurs, je vous présente ma nouvelle alliée, l'Altesse Rey. Tout manque de respect envers elle sera lourdement châtié.  
+Il toisait tous les hommes avec son regard. Soudain, il s'aperçut que quelques hommes étaient restés assis à leurs tables et continuaient à travailler. Je sentais la colère monter en Ben. De la colère mélangée à de la frustration. Ces hommes lui manquaient de respect, ne voulaient pas le reconnaître comme Suprême Leader ! Mais même avant qu'il ne prenne la place de Snoke, ces hommes auraient aussi dû se lever...  
+Glario, voyant le visage de Ben changer, s'empressa d'expliquer :  
+\- Suprême Leader, pardonnez à mes hommes de ne pas s'être levés pour vous honorer. Ils sont en train de faire des expriences qui ne peuvent pas être suspendues. Elles ont été planifiée bien avant que l'on apprenne que vous viendriez.  
+\- Très bien, fit Ben sur un ton ferme. Reprenez vos expériences. Mais n'oubliez pas d'obtenir ce que je vous ai demandé. Le plus rapidement possible.  
+\- Bien sûr, Suprême Leader, répondit Glario en s'inclinant.  
+Alors Ben se retourna pour sortir de la pièce. Je fis de même. Dès que nous commençâmes à marcher, tous les hommes s'inclinèrent et, apparemment, attendirent que les portes se soient refermées pour reprendre leur travail.  
+
+Nous continuâmes à parcourir les couloirs. Et Ben m'expliquait à quoi correspondaient certains secteurs, certaines salles. Je me demandais comment je ferais pour repérer dans tous ces couloirs. Mais, finalement, avais-je besoin de tout connaître ? Je ne le savais pas. Peut-être ne retraverserais-je jamais ces secteurs.  
+Puis nous arrivâmes à l'infirmerie. Cela se déroula comme avec les ingénieurs. Les médecins vinrent à notre rencontre et s'inclinèrent, à part certains qui s'occupaient de cas graves qui ne pouvaient pas attendre.  
+<!-- autres services -->
+Nous sortîmes et là, Ben prit la parole.  
+\- Rey, maintenant, viens. Nous allons dans le grand hall. Mais là, ce ne sera pas pareil : je te présenterai à mes troupes.  
+Mais... pourquoi ce ne serait pas pareil ? me demandai-je. Cette phrase m'intriguait. Que voulait-il dire ? simplement que la présentation ne se ferait pas de la même façon ? ou allait-il m'attribuait un rôle ? Un rôle, dans l'armée du Premier Ordre ? Non, je ne pourrais pas accepter ça... Qu'allait-il se passer ?  
+Ces idées tournaient tellement dans ma tête que je ne fis pas attention au décor autour de moi. Puis nous arivâmes dans le grand hall. Et là, à ma grande surprise, je vis pleins de Stormtroopers en rang, face à nous. Combien étaient-ils ? Plusieurs centaines ? Plusieurs milliers ? Je ne sais pas. Je n'eus pas le temps d'observer pour essayer de compter leur nombre.  
+
+Nous voyant arriver, tous se mirent au garde à vous et le Général Hux, suivi de quelques hommes, s'avança.  
+\- Suprême Leader, comme vous me l'avez ordonné, j'ai réuni tous mes hommes, à l'exception de certains qui doivent impérativement rester à leurs postes, déclara-t-il sur un ton sec et dédaigneux.  
+Plus il me lança un regard noir. Je vis qu'il n'y aurait jamais grande amitié avec lui. Mais comme je m'étais déjà dit, je n'étais venue dans le Premier Ordre pour me faire des amis. Mais pour sauver Ben. Ben et la Réssitance. Alors, j'ai poussé l'énergie qui serrait mon ventre dans mes yeux et lui ai lancé un regard autoritaire.  
+Ben se remit à marcher pour se placer au milieu de la salle, face aux soldats. Je le suivis. Le Général Hux et ses hommes se placèrent derrière nous.  
+\- Rey, déclara Ben fortement pour que tous ses hommes l'entendent, je te présente mes troupes. Grâce à la discipline installée ici, nous pourrons installer la paix dans la galaxie.  
+J'ai essayé de garder la tête haute, un regard ferme. Et ce, malgré que cette idée de paix dans la galaxie grâce à la discipline qui régnait ici me déplaisait.  
+\- Soldats, reprit-il, je vous présente mon alliée, l'Altesse Rey. Vous lui devez respect absolu. Le moindre signe de non respect sera lourdement châtié !  
+Puis Ben se retourna et me présenta les officiers qui étaient avec Hux. Commandants, capitaines. Tous en uniforme. Sauf un, qui était dans une grande armuer brillante, argentée. En l'entendant parler, je compris qu'il s'agissait d'une femme, le capitaine Phasma.  
+
+Après ces présentations, Ben me fit comprendre avec un regard que la cérémonie était terminée. Nous sortîmes du grand hall et, une fois dans le couloir, il se tourna vers moi.  
+\- Rey, je vais t'expliquer un chemin très important.  
+\- Lequel, Ben ?  
+\- Le grand hall, que nous venons de visiter, accueille tous les vaisseaux. Si un jour il y a un problème, c'est ici qu'il faudra que tu te rendes pour pouvoir être évacuée. Je vais te montrer le chemin jusqu'à ta chambre.  
+\- D'accord, Ben. Mais comment vais-je pouvoir me repérer dans le vaisseau ? Tous les couloirs que nous avons traversés se ressemblent tous !  
+\- Rey, répondit-il en posant sa main sur le haut de mon bras, rassures-toi. Le plan n'est pas si complexe que ça. Et nous sommes passés par des secteurs que moi-même je ne traverse jamais. Et puis si un jour, tu as besoin d'aide pour te repérer, je sais que tu arriveras à obtenir l'information auprès de mes hommes. De façon simple ou par influence, ajouta-t-il avec un léger sourire.  
+Je souris à mon tour. Il faisait allusion à mon évasion à bord de la Starkiller. Là, où j'ai réussi à influencer un Stormtrooper pour qu'il me détache et sorte de la pièce laissée ouverte.  
+Nous arrivâmes alors dans un embranchement de deux couloirs.  
+\- Rey, regarde, reprit-il. Ici, c'est à gauche qu'il faut aller. D'ailleurs, nous sommes arrivés par l'autre côté, mais ce après avoir fait un long parcours.  
+Nous nous emmanchâmes dans ce couloir. J'essayais de distinguer des signes, de petits détails qui pourraieent m'aider à me repérer. Puis nous arrivâmes devant un ascenseur. Nous entrâmes dedans et remontèrent. En sortant, nous nous sommes retrouvés dans le couloir de ma chambre.  
+
+Après quelques pas, nous arrivâmes devant la porte de ma chambre. Je suis entrée et, à ma grande surprise, Ben me suivit. Que voulait-il faire ? Pourquoi rentrait-il dans ma chambre avec moi ?  
+\- Rey, commença-t-il avant que je ne puisse m'imagnier des choses, demain matin je commencerai à t'enseigner le combat et la Force.  
+\- D'accord Ben, répondis-je en commençant à bailler.  
+\- Rey, repose-toi. Et merci encore, fit-il avec un regard reconnaissant.  
+Puis il partit.  
+
+Toutes ces émotions, tous ces événements m'avaient épuisée. Je me suis assise sur le canapé pour essayer de reprendre un peu mes esprits.  
+Ce matin Ben m'avait présenté les responsables des départements. Puis il m'a conduite ma chambre. Je me suis reposée. Il m'a réveillée grâce à une communication audio. Nous sommes allés manger. Puis il m'a présenté le vaisseau et ses hommes. Et demain, il commencera à m'enseigner le combat et la Force.  
+Soudain, je me suis posée une question, comme tout à l'heure avant d'aller me coucher. Comment se passe le réveil ici, dans ce vaisseau ? Mais après tout, je le saurai en temps voulu : je n'aurais qu'à attendre et Ben m'enverra un message vocal.  
+Je me suis levée du canapé et suis allée me coucher.
