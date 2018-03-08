@@ -382,14 +382,14 @@ J'ai traversé la pièce et me suis approchée de la porte menant à la chambre 
 J'ai hoché la tête pour acquiescer. Il m'invita à faire demi-tour et nous sortîmes dans le couloir par la porte de ma chambre.
 
 ## Chapitre 6
-Nous prîmes l'ascenseur et nous descendîmes quelques étages. Quand les portes s'ouvrirent, des officiers attendaient pour le prendre. En nous voyant, ils se mirent tous les deux au garde à vous et nous laissèrent passer. Contrairement à tout à l'heure, nous croisâmes plusieurs groupes soldats. Des officiers, des Stormtroopers. Et à chaque fois, ils se rangeaient des deux côtés du couloir, au garde à vous près du mur.  
-Ben marchait rapidement, la tête haute avec un regard fixe.  
-Puis il s'arrêta devant une porte et m'invita à entrer dans la pièce. Cette pièce était magnifique. Entièrement blanche. Il n'y avait aucun signe montrant que nous étions dans un vaisseau. Aucune plaque métallique grise, aucun boulon visible. Avec au milieu, une belle table, blanche elle aussi.  
+Nous prîmes l'ascenseur et nous descendîmes quelques étages. Quand les portes s'ouvrirent, des officiers attendaient pour le prendre. En nous voyant, ils se mirent tous les deux au garde à vous et nous laissèrent passer. Ben marchait rapidement, la tête haute avec un regard fixe.  
+Contrairement à tout à l'heure, nous croisâmes plusieurs groupes soldats. Des officiers, des Stormtroopers. Et à chaque fois, ils se rangeaient des deux côtés du couloir, au garde à vous près du mur.  
+Puis Ben s'arrêta devant une porte et m'invita à entrer dans la pièce. Cette pièce était magnifique. Entièrement blanche. Il n'y avait aucun signe montrant que nous étions dans un vaisseau. Aucune plaque métallique grise, aucun boulon visible. Avec au milieu, une belle table, blanche elle aussi.  
 Ben, derrière moi, m'invita à m'asseoir. Puis il fit le tour de la table et s'assit, face à moi.  
 
 Un homme nous apporta les plats. Au début, l'atmosphère était très silencieuse. Je sentais que Ben avait quelque chose à me dire mais ne savait pas par où commencer. Puis, au bout d'un moment, il posa ses couverts sur la table et me regarda :  
 \- Rey, tu as été impressionnante face aux gardes de Snoke. Cependant, tu as encore beaucoup de choses à apprendre sur le combat. Sur la Force. Laisse-moi te l'enseigner.  
-Que venait-il de dire ? Il voulait m'enseigner le combat ? la Force ? Il voulait que je devienne son apprentie ? que je bascule moi aussi ? Pour le combat, je ne lui dirai pas non. Mais jamais le côté obscur.  
+Que venait-il de dire ? Il voulait m'enseigner le combat ? la Force ? Il voulait que je devienne son apprentie ? que je bascule moi aussi ? Pour le combat, je ne lui dirais pas non. Mais jamais le côté obscur.  
 \- Rey, ne t'inquiète pas. Je sais ce que tu penses en toi. Je t'enseignerai le combat. Je t'enseignerai la Force. Mais je respecterai ton choix sur le côté obscur.  
 Ce qu'il venait de dire me soulagea. Mais il faudrait que je fasse attention. Qu'il ne le fasse pas à mon insu, comme ce que j'essaie de faire avec lui.  
 \- D'accord, Ben. Je veux b...  
@@ -401,57 +401,52 @@ Un grésillement m'arrêta. Au bout de la table, un hologramme apparut. C'était
 Je sentais la colère bouillonner en Ben.  
 \- Engagez tous les hommes ! J'arrive !
 
-Ben appuya directement sur un bouton pour éteindre l'hologramme. Il se leva et se tourna face au mur. Je sentais qu'il allait faire une bêtise. Je me suis levée, la main posée sur mon sabre-laser. Soudain, il prit le sien, l'alluma. Se retournant, il voulut frapper la table avec. Mais j'avais compris ses intentions. Au dernier moment, je mis mon sabre-laser en travers du sien.  
+Ben appuya directement sur un bouton pour éteindre l'hologramme. Il se leva et se tourna face au mur. Soudain, il prit son sabre-laser et l'alluma. Se retournant, il voulut frapper la table avec. Mais j'avais compris ses intentions. Au dernier moment, je mis mon sabre-laser en travers du sien.  
 \- Ben, fais pas ça !  
 Il me regarda avec autant de colère que d'étonnement.  
 \- Ben, tu es Suprême Leader ! Ne réagis pas comme ça ! Garde ton calme !  
 Il soupira et éteignit son sabre. Je fis de même.  
 Puis, tout aussi en colère, il sortit de la pièce en m'invitant à le suivre.
 
-Il était plus énervé que jamais. Et je devinais pourquoi. Il savait que sa colère n'était pas digne d'un grand chef qui doit savoir garder son sang froid. Cet imprévu était-il vraiment un imprévu ? ou certains manigançaient-ils afin de montrer qu'il n'arriverait pas à sauver le vaisseau, comme il me l'avait confié ?  
+Il était plus énervé que jamais. Et je devinais pourquoi. Il savait que sa colère n'était pas digne d'un grand chef qui se doit de garder son sang froid. Cet imprévu était-il vraiment un imprévu ? ou certains, comme il me l'avait confié, manigançaient-ils afin de montrer qu'il n'arriverait pas à sauver le vaisseau ?  
 Nous marchions tellement vite dans les couloirs que certains hommes avaient à peine le temps de réaliser qui nous étions pour se mettre au garde à vous. Et nous sommes arrivés devant une grande porte. Au-dessus d'elle, un écran affichant ce que la caméra juste à côté filmait. C'était nous. Il détecta nos visages. Reconnaissant celui de Ben, il déclencha l'ouverture de la porte.  
 
 Ben entra dans la pièce, furieux. Je le suivis.  
 Cette pièce était bizarre. Le sol sur lequel nous marchions n'était pas aussi large que la pièce. De chaque côté, en contrebas, des hommes face à des machines, des ordinateurs. Au fond, devant la grande baie vitrée donnant sur l'espace, le Général Hux et des officiers.  
 Une fois arrivés à leur hauteur, nous nous sommes arrêtés.  
-\- Général Hux ! Que se passe-t-il ? Pourquoi l'aile va-t-elle s'écraser plus vite ?!  
-\- Suprême Leader, le réservoir de carburant de l'aile fuit. Et là, la fuite s'est aggravée. Tout le carburant risque d'être expulsé dans le vide.  
-Je sentis contre mon bras celui de Ben se tendre et ses poings se serrer. Alors, avec la plus grande discrétion possible, je lui donnai un petit coup de coude afin de garder son calme. Il a dû le sentir car il n'a pas explosé de colère. Il parla par contre avec la mâchoire très tendue.  
+\- Général Hux ! Que se passe-t-il ? Pourquoi l'aile va-t-elle s'écraser plus vite ?! commença Ben.  
+\- Suprême Leader, le réservoir de carburant de l'aile fuit, lui répondit le Général Hux. Et là, la fuite s'est aggravée. Tout le carburant risque d'être expulsé dans le vide.  
+Je sentis contre mon bras celui de Ben se tendre et ses poings se serrer. Alors, avec la plus grande discrétion possible, je lui donnai un petit coup de coude afin de garder son calme. Il dut le sentir car il n'a pas explosé de colère. Il parla par contre avec la mâchoire très tendue.  
 
-Pendant ce temps, je me suis  approchée de la baie vitrée pour observer le vaisseau. Soudain, j'aperçus des tâches blanches blanches bouger, au niveau des ouverture. J'ai demandé des jumelles à un officier. Il s'empressa de m'en donner. Je les ai prises et ai observé ces tâches blanches. Je n'arrivais pas à y croire... C'était des Stormtroopers qui appelaient à l'aide ! Des Stormtroopers voyant que les troupes ne se focalisaient que sur les chars tandis que eux étaient délaissés ! J'ai baissé mes jumelles et me suis tournée vers Ben.  
+Pendant sa discussion avec ses hommes, je me suis  approchée de la baie vitrée pour observer le vaisseau. Soudain, j'aperçus des tâches blanches bouger, au niveau des ouvertures. J'ai demandé des jumelles. Un officier s'empressa de m'en donner. Je les ai prises et ai observé ces tâches blanches. Je n'arrivais pas à y croire... C'était des Stormtroopers qui appelaient à l'aide ! Des Stormtroopers voyant que les troupes ne se focalisaient que sur les chars ! voyant que leurs vies étaient négligées au profit de matériel ! J'ai baissé mes jumelles et me suis tournée vers Ben.  
 \- Ben ! Tous les Stormtroopers ne sont pas encore évacués !  
-Le Général Hux qui était face à Ben se retourna. Il me répondit avec un petit rictus :  
-\- Votre Altesse, sachez que ce sont les ordres ! Nous devons commencer par évacuer les chars.  
-\- Quoi ?! Non, ce n'est pas possible ! Ben, commence par sauver tes hommes, fis-je en m'approchant de lui.  
-\- Rey, j'ai déjà assez d'hommes. Les chars, eux, sont très précieux. Un char coûte beaucoup plus cher qu'un régiment de Stormtroopers.  
-Non, ce n'était pas possible ! Ce que disait Ben n'était pas humain !  
-\- Ben ! Mais c'est inhumain ça ! Dis-toi que... qu'une fois l'aile échouée sur la planète, tu pourras récupérer des chars, voire des pièces détachées et en refabriquer d'autres ! On ne peut pas faire ça avec des hommes ! Tu crois qu'avec un corps par-là, une tête par-là tu pourras recréer des homes ? Non !  
-\- Votre Altesse ! fit Hux. Si nous laissons les chars dans le vaisseau qui va s'échouer, il y a peu de chances que nous puissions les reconstruire derrière !  
-\- Général ! fis-je sur un ton sec en me tournant vers lui. Sachez qu'on peut récupérer beaucoup plus de choses que vous ne le pensez sur un vaisseau échoué ! Pendant plus de dix, j'ai été chasseuse d'épaves, sur Jakku. Et je sais très bien tout ce qu'on peut récupérer dans un vaisseau échoué !  
+Le Général Hux qui était face à Ben se retourna.  
+\- Votre Altesse, sachez que ce sont les ordres ! me déclara-t-il avec un petit rictus. Nous devons commencer par évacuer les chars.  
+\- Quoi ?! répondis-je en m'avançant vers Ben. Non, ce n'est pas possible ! Ben, commence par sauver tes hommes !  
+\- Rey, j'ai déjà assez d'hommes, me fit remarquer Ben. Les chars, eux, sont très précieux. Un char coûte beaucoup plus cher qu'un régiment de Stormtroopers.  
+Non, c'était impossible ! Ben ne pouvait pas dire une chose pareille !  
+\- Ben ! Mais c'est inhumain tout ça ! Dis-toi que... qu'une fois l'aile échouée sur la planète, tu pourras récupérer des chars, voire des pièces détachées et en refabriquer d'autres ! On ne peut pas faire ça avec des hommes ! Tu crois qu'avec un corps par-ci, une tête par-là tu pourras recréer des hommes ? Non !  
+\- Votre Altesse ! répliqua Hux. Si nous laissons les chars dans le vaisseau, il y a peu de chances que nous puissions les reconstruire après l'échouement !  
+\- Général ! fis-je sur un ton sec en me tournant vers lui. Sachez qu'on peut récupérer beaucoup plus de choses que vous ne le croyez sur un vaisseau échoué ! Pendant plus de dix, j'ai été chasseuse d'épaves, sur Jakku. Et je sais très bien tout ce qu'on peut récupérer dans un vaisseau écrasé !  
 Je me suis retournée vers Ben.  
-\- Ben, sauve tes hommes !  
+\- Ben, sauve tes hommes ! lui suppliai-je.  
 \- Rey, tu crois que je vais arrêter toutes les manœuvres en cours pour sauver ces hommes qui coûtent beaucoup moins chers que des chars ?  
-\- Mais Ben... dis-toi que ce sont des hommes eux aussi... Si tu les sauves, il verront que leur nouveau Suprême Leader ne les néglige pas ! Ils te seront éternellement reconnaissants ! Fidèles ! Tu ne peux pas négliger ça ! Ils combattront pour le Premier Ordre non seulement par discipline comme avant, mais aussi par loyauté envers toi qui les a sauvés !  
+\- Mais Ben... dis-toi que ce sont des hommes eux aussi... Si tu les sauves, ils verront que leur nouveau Suprême Leader ne les néglige pas ! Ils te seront éternellement reconnaissants ! Fidèles ! Tu ne peux pas négliger ça ! Ils combattront pour le Premier Ordre non seulement par discipline, comme avant, mais aussi par loyauté envers toi qui les a sauvés !  
 
 Au fur et à mesure de mes paroles, je voyais le conflit s'installer en Ben. Devait-il maintenir les ordres ? ou revenir sur sa parole et suivre mes conseils ? Chose qu'il avait déjà faite lors de la bataille sur Crait.  
 Il me regarda.  
-\- Rey, viens. Il faut qu'on parle.  
-Il se retourna pour sortir du poste de commandement. Le Général Hux, voyant que je n'avais pas convaincu Ben, me regarda avec un petit sourire de victoire. J'étais effondrée de voir que Ben ne changeait pas d'avis. Je commençais à prendre le chemin de la porte.  
-Pour m'enfoncer encore plus, le Général Hux prit la parole :  
-\- Suprême Leader, que doit-on faire alors ?  
-Ben s'arrêta de marcher. Il se retourna.  
-\- Ce qu'elle vient de dire ! cria-t-il.  
-Moi, je m'étais arrêtée aussi. Stupéfaite. Soulagée. Soulagée par ce que je venais d'entendre.  
+\- Rey, viens. Il faut qu'on parle, déclara-t-il.  
+Il se retourna pour sortir du poste de commandement. Le Général Hux, voyant que je n'avais pas convaincu Ben, me défia du regard avec un petit sourire de victoire. J'étais effondrée de voir que Ben ne changeait pas d'avis. Je pris alors la direction de la porte, derrière Ben.
 
-Ben reprit son chemin vers la porte. Mais il ne la franchit pas. Il se tourna vers la gauche. Je me suis aperçue qu'il y avait une petite porte. D'un regard, je compris qu'il voulait que je le suive dans cette pièce.  
+Mais il ne la franchit pas. Il se tourna vers la gauche. Je me suis aperçue qu'il y avait une petite porte. D'un regard, je compris qu'il voulait que je le suive dans cette pièce.  
 La porte franchie, elle se referma. Dans la pièce, il y avait un grand fauteuil. Et une table. Quelle était cette pièce ? Un bureau secret ? dans lequel nous pouvions parler sans que personne ne nous entende ? Sans doute.  
 Ben se retourna vers moi, en colère.  
 \- Rey ! Arrête de me contredire ainsi devant mes hommes !  
-\- Ben, ce n'est pas pour te contredire que je fais ça... Tu allais faire une terrible erreur, irréparable. Si je t'avais dit tout ça après la chute de l'aile sur la planète, je sais que tu l'aurais mal vécu.  
-Je sentais qu'intérieurement, Ben pensais que j'avais un peu raison. Il respira fortement. Puis il reprit la parole :  
-\- Rey... la prochaine fois, pense-le très fort comme nous l'avons fait sur Crait. Mais ne le fais pas ainsi devant mes hommes. J'ai l'impression qu'ils me voient de plus en plus comme un chef faible. Faible et influençable. Et manipulable.  
+\- Ben... ce n'est pas pour te contredire que je fais ça... Tu allais faire une terrible erreur, irréparable, lui expliquai-je calmement. Si je t'avais dit tout ça après la chute de l'aile sur la planète, je sais que tu l'aurais mal vécu.  
+Je sentais qu'intérieurement, Ben pensais que je n'avais pas tort. Il respira fortement.  
+\- Rey... la prochaine fois, pense-le très fort comme nous l'avons fait sur Crait. Mais ne le fais pas ainsi devant mes hommes. J'ai l'impression qu'ils me voient de plus en plus comme un chef faible. Faible et influençable.  
 \- Ben, j'essayerai de faire de mon mieux, lui répondis-je en me rendant compte qu'il avait raison.  
-À force de le contredire devant ses hommes, je ne l'aidais à installer son autorité sur ses hommes.  
+En effet, à force de le contredire devant ses hommes, je ne l'aidais à installer son autorité. Au contraire, il apparaissait comme un chef manipulable devant eux.   
 Ben, toujours très tendu, se dirigea vers la porte. Mais arrivé à ma hauteur, je l'ai stoppé en lui prenant le bras.  
 \- Ben, attends avant de sortir. Je comprends que de te contredire devant tes hommes n'est pas une bonne idée. Mais toi, garde ton sang-froid.  
 Il me regarda.  
@@ -459,6 +454,6 @@ Il me regarda.
 J'ai relâché son bras. Nous sortîmes de la pièce.  
 
 Tous les regards se tournèrent vers nous. Beaucoup furent surpris de notre calme. Mais aussi du fait que nous ne montrions aucune marque de combat. Je crois qu'ils pensaient que Ben, furieux, avait sorti son sabre-laser face à moi.  
-Arrivés à la porte d'entrée, Ben lança à ses hommes :  
-\- Général Hux ! Faites ce qu'elle a dit ! Sauvez les hommes !  
-Juste avant que nous ne sortions, je vis le Général Hux me lancer un regard noir. Un regard de mépris, de haine. Mais je ne réagis pas. Je suis sortie de la pièce avec Ben.
+\- Suprême Leader ! Que doit-on faire alors ? demanda le Général Hux à Ben avant de me lancer un regard de défi.  
+Là, Ben ne s'arrêta pas. Il continua de marcher vers la porte.  
+\- Ce qu'elle a dit ! cria-t-il sans se retourner vers lui.
