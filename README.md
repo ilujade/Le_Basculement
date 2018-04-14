@@ -459,3 +459,69 @@ Tous les regards se tournèrent vers nous. Beaucoup furent surpris de l'absence 
 \- Suprême Leader ! Que doit-on faire alors ? demanda le Général Hux avant de me lancer un regard de défi.  
 Là, Ben ne s'arrêta pas. Il continua de marcher vers la porte.  
 \- Ce qu'elle a dit ! cria-t-il en sortant de la pièce sans se retourner.  
+
+## Chapitre 7
+Dans le couloir, Ben marchait très vite. Mais il n'avait pas le côté fier, la tête haute qu'il avait d'habitude. Plusieurs fois, j'ai essayé de l'aborder, de le remercier pour la décision qu'il avait prise. Mais à chaque fois, il m'arrêtait avec son bras. Et ce avant même que je ne puisse prononcer un mot.  
+Nous arrivâmes devant un ascenseur et entrâmes dedans. Ben demanda le niveau le plus élevé. Il voulait aller dans la salle du trône.  
+Les portes se fermèrent et l'ascenseur commença à monter.  
+
+Nous étions tous les deux face aux portes. L'atmosphère était tendue.  
+\- Rey, pardonne-moi. Mais mon rôle de nouveau Suprême Leader n'est pas facile, me confia Ben sans se tourner. J'ai beaucoup plus de tâches que je ne le pensais.  
+\- Ben, je peux t'aider, lui répondis-je en le regardant.  
+\- Je sais, Rey. Mais ce sont des tâches que je dois faire moi-même. Aller dans chaque service pour une première visite en tant que Suprême Leader. Réformer les anciennes directives.  
+Il se tourna vers moi et me regarda dans les yeux.  
+\- Rey, je te l'ai déjà dit. Je veux créer un nouvel Ordre.  
+Je me suis tournée aussi, face à lui.  
+\- Mais Ben, je suis là. Je te soutiendrai. Si tu veux, une fois les directives données, je...  
+
+Mais l'ascenseur s'arrêta. Les portes s'ouvrirent et m'empêchèrent de terminer ma phrase.  
+Nous étions arrivés dans le couloir, face aux portes menant à la salle du trône. Trois hommes attendaient. Nous voyant arriver, ils se tournèrent vers nous et s'inclinèrent.  
+\- Suprême Leader, commença l'un d'entre eux, comme vous nous l'avez ordonné, nous sommes venus vous présenter l'avancement de nos travaux de recherche.  
+\- Bien. Allons voir cela dans la salle du trône.  
+Ben avait répondu avec un ton beaucoup plus ferme qu'il y a quelques instants dans l'ascenseur. Il avait aussi perdu le visage fragile et sincère. Il était redevenu le chef autoritaire qu'il voulait être.  
+Il s'avança vers la porte et posa sa main sur le détecteur. La porte se leva et il me fit signe de le suivre. J'entendis alors de discrets signes d'étonnement derrière nous. Je voulus demander à Ben ce qu'il se passait mais j'ai préféré attendre que la porte se soit refermée pour le faire. En tant qu'alliée du Suprême Leader, je ne pouvais pas me comporter comme une petite fille qui posait des questions pour comprendre le monde autour d'elle.  
+Une fois la porte redescendue et la plaque horizontale glissant, je lui fis part de mon interrogation.  
+\- Rey, dis-toi que tu es la première qui franchit ces portes en compagnie du Suprême Leader.  
+\- Quoi ?!  
+\- Personne n'a le droit de passer ses portes en même temps que le Suprême Leader. C'est une règle que Snoke avait instaurée et que je n'ai pas modifiée.  
+En entendant ces paroles, je me suis rendue compte que Ben m'offrait des honneurs que personne n'avait encore reçus dans le Premier Ordre. Je savais qu'à ses yeux, je n'étais pas n'importe qui. Mais l'importance de ces faveurs était tout de même impressionnante. Il faudrait que je sois prudente car tout cela pourrait provoquer de grandes jalousies de la part de certains de ses hommes.  
+
+La seconde porte se leva et nous entrâmes dans la salle. Nous marchions vers le trône quand la porte s'ouvrit pour laisser entrer les trois hommes.  
+Arrivé devant le trône, Ben se retourna. Je fis de même. Les hommes s'arrêtèrent alors et s'inclinèrent.  
+\- Bien, commença Ben. Ingénieur Mercal, qu'avez-vous à me présenter aujourd'hui ?  
+Les hommes se relevèrent. L'un deux s'avança.  
+\- Suprême Leader, nous avons découvert un matériau beaucoup plus solide pour les armures des Stormtroopers, répondit-il en présentant une plaque de ce matériau. Elle permet de rendre insensibles les hommes aux tirs de blaster à plus de...  
+
+Mais une petite sonnerie retentit et coupa l'ingénieur. Je vis soudain tout le monde se tourner vers moi. Mais personne ne regardait mon visage. Avant même que je puisse réagir, Ben prit mon bras et me fit reculer. C'est alors que je compris. J'étais à l'emplacement d'un hologramme qui venait d'apparaître. C'était le médecin-chef Ferta.  
+Ben s'approcha du trône et appuya sur un bouton pour activer la communication.  
+\- Suprême Leader, commença rapidement Ferta. Pardonnez-moi de vous déranger mais mon infirmerie a de gros problèmes.  
+Je sentis Ben se demander s'il n'y avait pas encore un coup monté. Mais là, il ne laissa rien paraître et continua d'écouter le médecin.  
+\- Je viens de recevoir une centaine de Stormtroopers et on m'a dit que ce n'était que le début ! D'autres allaient arriver !  
+\- Je sais, répondit Ben. C'est moi qui en ai donné l'ordre. J'ai ordonné que tous les Stormtroopers encore sur le vaisseau de Snoke soient évacués.  
+Je vis le médecin un peu surpris par l'ordre donné mais il essayait de ne pas le montrer craignant la réaction de Ben.  
+\- Très bien Suprême Leader. Mais le soucis est que mon infirmerie est déjà remplie. Et que les services adjacents refusent de coopérer à cause de raisons confidentielles.  
+Ben fronça les sourcils, le regard dans le vide. Il me regarda un bref instant avant de repartir dans ses pensées. Puis il s'adressa au médecin.  
+\- Ferta, dites aux responsables des services adjacents de venir vous rejoindre à l'infirmerie et attendez les ordres !  
+\- À vos ordres, Suprême Leader, répondit le médecin en s'inclinant.  
+Puis l'hologramme s'éteignit.
+
+Ben se tourna vers moi.  
+\- Rey, je ne peux pas reporter cette réunion avec mes ingénieurs. J'ai toute confiance en toi. Vas à l'infirmerie et donne les ordres nécessaires pour que tout se passe correctement. Tu as carte blanche, pour tous les services.  
+Je n'arrivais pas à croire ce que je venais d'entendre ! Ben me donnait carte blanche pour tous les services afin de régler le problème de l'infirmerie ? Problème dû à l'évacuation des Stormtroopers que je lui avais moi-même demandé ? Je n'en revenais pas.  
+Mais après un court instant d'étonnement, je repris mes esprits.  
+\- D'accord, Ben. J'y vais tout de suite, lui répondis-je en me dirigeant vers la porte.  
+Mais après quelques pas, j'entendis un des hommes prendre la parole.  
+\- Hum hum, fit-il en se raclant la gorge. Suprême Leader, Altesse Rey, puis-je me permettre de vous faire une remarque ?  
+Je me suis arrêtée et me suis tournée vers lui.  
+\- Qu'y a-t-il ? m'empressai-je de répondre avant que Ben ne réagisse, contrarié par ces paroles. Je vous écoute.  
+\- Suprême Leader, commença l'homme en se tournant vers Ben. Comme vous nous l'avez ordonné, nous devons le respect absolu à votre allié l'Altesse Rey. Cependant, vous n'avez jamais mentionné l'obéissance.  
+Je sentais que l'humeur de Ben commençait à bouillonner en entendant ces paroles audacieuses. Le sentant aussi, l'homme s'empressa de continuer.  
+\- Je crois que si l'Altesse Rey donne des ordres qui ne plaisent pas aux autres services, elle rencontrera des problèmes. Certains pourraient refuser de lui obéir...  
+Ben se détendit. Ces remarques n'avaient pour but que d'aborder des difficultés que je pourrais rencontrer. Aucun signe d'ironie ou d'insubordination dans les paroles.  
+\- Rey, fit Ben. Vas-y. Tu n'auras pas les problèmes évoqués. Je vais faire passer la consigne !  
+\- D'accord, répondis-je.  
+Mais avant de me retourner vers la porte, je me suis adressée à cet homme :  
+\- Merci pour ces remarques, euh... Quel est votre nom ?  
+\- Je suis l'ingénieur Dodias, assistant de l'ingénieur Mercal.  
+\- Merci, ingénieur Dodias, terminai-je avant de courir vers la porte.  
+Je sentis derrière moi que les trois hommes étaient surpris par ce remerciement. Ils ne s'attendaient pas à cela. Ils devaient penser que je ne m'occupais que de ce que Ben m'avait chargé de faire. Aucunement de ses hommes.
