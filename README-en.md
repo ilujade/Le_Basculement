@@ -241,3 +241,292 @@ Taking a firmer face, he turned to the doctors.
 \- How long will the healing of the wound last?  
 \- Supreme Leader, considering the resistance of your ally, she will be able to leave tomorrow, one of the doctors answered, looking at his colleagues who confirmed. However, she will have to come back to do checks every day for ten days, he finished, turning to me.  
 \- Good. Now, leave us alone.
+
+## Chapter 4
+Ben, still holding my hand, sat on the edge of the bed.  
+\- Rey, before going to see my troops, I wanted to thank you again. Thanks to you, I won a great battle. And what doctors have just said shows that both of us will be able to establish a new order in the galaxy.  
+These words hurt me. He still had too much thirst for power. But his face showed me that he also felt other emotions than anger and hatred. Empathy. Solicitude. I had to keep hope.  
+He was getting ready to leave when I shook his hand.  
+\- Ben, before you leave, I'd like to ask you something. Why did you give me the title of _Highness_?  
+\- Rey, I was not going to let my staff call you by your name, he said with a nice smile.  \- 
+But what does this title mean? You gave me a role, a specific responsibility?  
+\- Not yet. But we'll see that when you're out. Come on, he finished getting up, rest well.  
+Then he left.  
+His last answer intrigued me. _Not yet._ This meant that he intended to give me a role. But which one? However, taking the lead with this question would be useless. I will know it in due course. Now I had to rest. I closed my eyes and fell asleep quickly.  
+
+The next morning, the doctors came to control my state of health. They made me several exams then confirmed that I could go out. I was then brought an outfit. I was pleased to see that it was my own clothes, cleaned and ironed.  
+I dressed myself. On leaving my room I saw an officer standing near the door. When I arrived, he turned to me.  
+\- Highness Rey, I am Lieutenant Straden. The Supreme Leader has charged me to take you to his courtroom.  
+\- Alright, Lieutenant. I follow you.  
+We crossed several corridors. Some were narrow, others very long. Some formed bridges overlooking the void, others led to huge sheds. All these gigantic installations, all the discipline that reigned aboard this ship, impressed me. I realized then that my job would not only be to bring Ben back to the bright side. But also, as an ally of the Supreme Leader, to be able to demonstrate authority, firmness. But also be careful not to find pleasure and switch to the dark side.
+
+We entered a corridor and, after a turn, I saw a large armored door.  
+\- Highness, here is the door of the Supreme Leader's courtroom. Once it has passed, it will close and access will be cleared, explained the lieutenant.  
+He pushed a button and the door rose, softly. I discovered a second door two meters away.  
+I felt hesitation settle in me. But my role prevented me from showing it. I advanced and crossed the first door. It closed. All alone in this chamber, I heard a squeaking sound. But the door in front of me did not move. After a few moments of listening, I realized that this noise was coming from above me. It was a horizontal plate that was receding. It allowed the door in front of me to get up while blocking the one I had just crossed. Once this plate stopped, the door opened, allowing me to enter the courtroom.  
+This courtroom in which Ben had managed to turn against Snoke. This room where both of us had clashed with the Praetorian Guard. This room where Ben made a very bad decision.
+
+To my surprise, the room was different. There was no red. The room was not round.  
+But I did not have time to observe this piece in more detail. Ben, who was chatting with four men, saw me. With a dry tone, he ordered them to shut up and walked towards me. He did not have the sweet look of the day before.  
+\- Rey, how are you? Are doctors still optimistic? he asked me with a tender look.  
+\- Yes, Ben, I replied.  
+His eyes changed again. And I understood why. I had called _Ben_. In front of his men.  
+\- Yes, the doctors are still optimistic, I urged myself to repeat.  
+\- All the better. I will have to inform you of certain rules, certain conventions of the First Order. But before, come on.  
+He invited me to accompany him to the center of the room, in front of the four men.
+
+I recognized General Hux. He had not changed his look. Another face seemed familiar, but I could not see who he was. As for the last two, I had never met them.  
+\- I present you my new ally, Highness Rey, he began with a grave tone. The slightest mark of non-respect towards him will be heavily punished.  
+General Hux remained impassive. But the other three felt a little uncomfortable and bowed their heads in respect.  
+\- Rey, here are the leaders of the four services of the First Order.
+
+My stomach was tight. I had never experienced such a situation. I had before me the highest officials of the First Order. And they owed me respect. I should not show any sign of emotion at this time. So, as before the Resistance on Crait, I focused on my role to hold. I had to keep my head up, with a neutral, even firm face.  
+Ben spoke again.  
+\- Rey, you already know General Hux. He is the leader of my armies.  
+The General looked at me with an air of contempt. Seeing that Ben did not like his lack of reaction, he bowed.  
+\- Respect, _Highness_, he said coldly.  
+With a look Ben made him understand that now he should react to me as well.  
+He then introduced me to Glario, the chief engineer, and Ferta the Chief Medical Officer. I understood why his face was familiar to me: I had met him in the infirmary. He ended with Cratoshi, in charge of all the management, other than military or medical, aboard the ships.  
+\- Now you know my ally. Remember that any sign of non-compliance will be punished. By me, or by her.  
+I felt astonishment pass in my eyes. But Ben said right away:  
+\- She also controls the Force. General Hux and Chief Medical Officer Ferta can testify, he added in a tone as calm as it was authoritative.
+
+He put his hand on his lightsaber, clinging to his belt. He took it off. His staff were starting to worry. His weapon in his hand, he turned to me. And then, to my surprise, he handed it to me.  
+After a few moments of stupor, I slowly raised my hand. His insistent glance pushed me to take the weapon. He let go. I looked at it and realized that it was not his lightsaber. Neither Luke's. I ignited it on and saw that it was blue. I turned it around me a few times and then, returning to reality, I turned it off.  
+\- Rey, here's your new lightsaber. I give it to you.  
+I did not know what attitude to adopt. Should I be delighted by this gift that Ben made me, or rather proud of his staff? I swallowed and, with a proud face, thanked him, trying to show my gratitude.
+
+Then his face became very firm and he turned to his men.  
+\- Well, now, let's get back to the problem of the ship. Glario, how much time do we have left before he crashes on Crait?  
+\- Our calculations are formal, Supreme Leader. Six hours and twenty-six minutes, replied the engineer, looking at his watch.  
+\- General, he ordered coldly, I want all the tanks on board the ship to be evacuated before that time.  
+\- It will not be possible, Supreme Leader. Because even if all men take care of it ...  
+He did not have time to finish his sentence. Ben, refusing to be contradicted, extended his arm and propelled him a few meters further. Then, without taking care of the general, he spoke again.  
+\- Glario, find a solution so that the rest of the ship does not crash. But above all, I want the maximum of resources on board the losing part to be recovered. All services take care of it! he finished in a very authoritative and determined tone.  
+His staff bowed and left to execute the orders.  
+Once alone, I wanted to ask Ben what was the problem of this ship in distress. But when I looked at him, I saw that he was nervous. Was it due to the situation of the ship? to the ardor he put to prove that he was a great leader?
+
+## Chapter 5
+I wanted to leave Ben alone for a moment, in his thoughts, so he could calm down. During that time, I tried to be as discreet as possible. I watched the room around me. This room that I did not recognize. I glanced at Ben to see if he had calmed down. After a while, I approached him.  
+\- Ben, how are you? What is going on ? You seem very nervous ...  
+\- Oh, Rey, he said, looking at me, annoyed. This ship story takes my head. And I have the impression that some of my men would laugh to see that I can not save him.  
+\- Ben, what is the story of this ship in distress?  
+\- Come see.
+
+He got up and went to one of the walls of the room. I followed him. He pressed a concealed button and a section of the wall rose, revealing a large window overlooking the space. What I saw took my breath away. It was a large triangular ship and one of its wings was cut in half. It looked like ... Snoke's ship!  
+\- Ben, it's ... it's the ship of ...  
+\- ... Snoke, yes.  
+\- But what happened?  
+\- This is because of the Resistants. They landed on Crait and Snoke was bombarding them. One person had stayed on board their big ship. This person preferred to sacrifice for the Resistance: the speed-light mode was activated, the ship turned around and went straight into Snoke's.  
+\- What ?! Oh la la ... I said suddenly. But then, we're not in Snoke's ship?  
+\- No, Rey. Here we are in my ship, not in Snoke's. My troops do everything to get it back.  
+\- Why ?! It's impossible to recover a ship like this!  
+\- Snoke was the Supreme Leader, Rey. Now it's me. And this ship belongs to me, "he said with a deep voice.  
+Oh no. He was still thinking about that. To this idea of ​​power that has the Supreme Leader.
+
+Suddenly, I thought that if we were not in Snoke's ship, it was not in this room that we faced the Praetorian Guard!  
+\- Ben, so here we are in your ship?  
+\- Yes, Rey. I have just told you. Why ? he said, turning his head toward me.  
+\- It's not here that we ...  
+\- No Rey. It's not here.  
+We both turned to face the window. Facing the ship in distress. And for a moment we looked at him. Then Ben spoke again.  
+\- Rey, come on. I have to show you your room.
+My room ? I say to myself. That's right, I was not in the infirmary now.  
+\- Come on, come on. Follow me, he repeated.
+
+We crossed the throne room and passed the two doors. In the hallway there was an elevator. We entered it. He started and went down several floors. On leaving, we found ourselves in a big hall. Very large. Very high. And right in front of us, a door. A big door.  
+\- Rey, it's here.  
+He put his hand on a detector. The door slid open to clear the way.  
+He let me enter the room first. I was surprised. This room was very big! On one side, I saw armchairs with a small table. And just to the left of the door, a piece of wall to separate the room in half. I advanced to better observe. This room was my bedroom? It was not possible! A room so big was not a bedroom! I went to see behind the wall. There was a bed. A big bed.  
+Then I turned around to come back to the chairs. Ben had closed the door. He was waiting.  
+\- Ben, that's ... that's my room? I asked, stunned.  
+\- Yes, Rey. As soon as you arrived at the infirmary, I ordered my staff to arrange this room for you, he replied in a kindly tone.  
+\- What? Did you ask your men to arrange a room for me?  
+\- Yes, Rey. You needed a good room, no? And this ship was not designed to welcome guests.
+
+I kept looking around. I realized there was another door in the wall opposite the front door.  
+\- Ben, there is another door there. Where does it lead?  
+\- To my room.  
+\- At your room? I repeated slowly, surprised by his answer.  
+\- Rey, I just told you. This vessel was not designed to accommodate guests. I didn't want you to sleep in a wing reserved for my troops. Here, these are my apartments. That's why I ordered a room for you in my dining room.  
+\- In your dining room? I repeated, surprised. Do not you have a dining room then?  
+\- I transferred it elsewhere, he replied gently.  
+This phrase relieved me. For a moment, I thought that the meals would be served in my room ... But another idea arrived: if his room was behind this door, he would have to cross mine to go out in the hall!  
+\- Ben, you say this door leads to your room, but how ... uh, but you'll have to go through my room to get in and out?  
+\- No, rest assured, he replied with a small smile. In my room, I had a back door. But my staff have transformed it so that it becomes the main door of my room.  
+\- Ben, do you mean that you have arranged your dining room to make me a room and that you have unveiled the existence of a back door in yours for me?  
+\- Rey, I already told you, he replied with a deep look. For me, you're not nothing.
+
+I wanted to speak, but instead of speaking, I began to yawn.  
+\- Aaah ... sorry Ben.  
+\- No, Rey. Even if the doctors took you out, I think you should rest a little longer. Stay here. I'll go see my troops. You, rest yourself. I will come to get you for the meal.  
+\- Okay. Thanks Ben.  
+\- It's my turn to thank you Rey. Thank you for coming to my side.
+
+I saw that neither of us dared to take the first step. I did not know where to look. So I turned to the part of my room where my bed was. I heard Ben walk towards the door. Arrived at the wall separating my bed from the rest of the room, I turned to the front door and saw that Ben had not yet crossed. He stopped in front. He gave me a last look and then left.  
+I lay on my bed. Suddenly, a question crossed my mind. Ben came to get me to eat, but if I slept, what was he going to do? Let me sleep? Come to wake me up here? Oh no, I should not fall asleep! I had to rest, but not sleep ... I started thinking about everything and nothing when fighting against sleep. I thought about Jakku, Crait, Leia, BB-8, Finn, Luke. To everything that happened in such a short time ...
+
+A little later, a sizzle woke me up. Finally I fell asleep. I raised my head to see where this little noise came from. I saw a machine next to the bed with several small diodes. The green was on.  
+\- Rey! Rey! Do you hear me ?  
+It was Ben's voice. And with each word pronounced, the diode blinked.  
+\- Yes, Ben, it's me! I replied, yawning.  
+\- Rey, can you hear me? If so, look at the machine next to your bed. Look at the green diode.  
+\- Yes Yes. I see.  
+\- If you hear me, press the green button below. This will trigger the microphone. I can hear you.  
+I hurried to follow the directions.  
+\- Ben, yes? I said slowly, still a little sleepy.  
+\- Ah, Rey. You are awake ?  
+\- Yes...  
+\- It's time for a meal. Prepare yourself quietly. I will wait for you in my room. You just have to knock on my door.  
+\- Ok, Ben.  
+Then the green light went out. I lay on my back. Ben had thought of putting a non-visual communication system in my room. This gesture relieved me. I got up and put my clothes back on properly. Then in front of the mirror, I put on my hair.  
+I crossed the room and approached the door leading to Ben's room. I knocked on the door. I heard a chair move and steps. Then the door opened and Ben appeared.  
+\- Rey, did you rest well?  
+I nodded to acquiesce. He invited me to turn around and we went out into the hallway through the door of my room.
+
+## Chapter 6
+We took the elevator and went down a few floors. When the doors opened, officers waited to take it. On seeing us, they both stood at attention and let us pass. Ben walked quickly, his head high with a stare.  
+Unlike earlier, we met several groups of soldiers. Officers, Stormtroopers. And each time, they ranged on both sides of the corridor, standing at attention near the wall. This discipline impressed me. I was not used to such honors. Especially from those who, a few days ago, were my enemies.  
+Then Ben stopped in front of a door and invited me to enter the room. This room was beautiful. Entirely white. There was no sign that we were in a ship. No gray metal plate. No visible bolt. With in the middle, a beautiful table, white too.
+Ben, behind me, invited me to sit down. Then he went around the table and sat down, facing me.
+
+A man brought us the dishes. At first, the atmosphere was very silent. I felt that Ben had something to tell me but did not know where to start. Then, after a moment, he put his cutlery on the table and looked at me:  
+\- Rey, you were awesome against Snoke's guards. However, you still have a lot to learn about the fight. On the Force. Let me teach you.  
+What was he saying? He wanted to teach me the fight? the Force? He wanted me to become his apprentice? that I switch too? For the fight, I would not say no to him. But the dark side, never.  
+\- Rey, do not worry. I know what you think. I will teach you the fight. I will teach you the Force. But I will respect your choice on the dark side.  
+What he had just said relieved me. But I should be careful. That he did not do it without my knowledge, like what I was trying to do with him.  
+\- Ok, Ben. I do not m...
+
+A sizzle stopped me. At the end of the table, a hologram appeared. It was an officer, embarrassed.  
+\- Supreme Leader, please forgive me for interrupting your meal, but the situation of the ship in distress has just worsened, he announced hastily.  
+\- What ?! exclaimed Ben.  
+His gaze changed. His eyes became black.  
+\- Yes, Supreme Leader, the officer continued uncomfortably, fearing Ben's reaction. The left wing will crash much sooner than expected. What must we do ?  
+I felt anger boiling in Ben.  
+\- Hire all troops! I arrive! he ordered.
+
+Ben pressed a button to turn off the hologram. He stood up and turned to face the wall. He was breathing deeply. Suddenly, he took his lightsaber and lit it. Turning around, he wanted to hit the table with it. But I understood his intentions. At the last moment, I put my lightsaber across his.  
+\- Ben, don't do that!  
+He looked at me with as much stupor as anger.  
+\- Ben, you are Supreme Leader! Don't react like that! Stay calm !  
+He took a deep breath and extinguished his sword. I did the same. Then, just as angry, he left the room inviting me to follow him.
+
+He had a very decided walk. He was very nervous. And I guessed why. He knew that his anger was not worthy of a great leader who must keep his cool. And was it really an unexpected? Or some, as he had told me, were they scheming to show that he could not save the ship?  
+We were walking so fast in the corridors that some persons barely had time to realize who we were to stand at attention. And we arrived in front of a big door. Above it, a screen showing what the next camera was filming. It was us. It detected our faces. Recognizing Ben's, it opened the door.
+
+Ben entered the room, furious. I followed him.  
+This room was weird. The floor we were walking on was not as wide as the room. On each side, below, staff face machines, computers. In the background, in front of the large bay window overlooking the space, General Hux and officers.  
+Once we arrived in front of them, we stopped.  
+\- General Hux! Ben started. What is going on ? Why will the wing crash earlier than planned ?!  
+\- Supreme Leader, the wing's fuel tank is leaking, General Hux replied with his usual dry tone. And there, the escape became worse. All fuel may be expelled in a vacuum.  
+Against my arm, I felt Ben's arm tensing and his fists tightening. Then, with the utmost discretion, I nudged him to encourage him to keep calm. He probably felt it because he did not explode with anger. He spoke on the other hand with the jaw very tense. And a very authoritative tone.
+
+During his discussion with his staff, I approached the bay window to observe the ship. Suddenly, I noticed white spots moving around the openings. I asked for binoculars. An officer hastened to give me some. I took them and observed these white spots.  
+What I saw upset me! I could not believe it ... It was Stormtroopers calling for help! Stormtroopers who saw that the troops only focused on the tanks! that their lives were neglected in favor of the material! I lowered my binoculars. I turned around and ran to Ben.  
+\- Ben! All Stormtroopers are not evacuated yet!  
+General Hux, who was facing Ben, turned around, raising his eyebrows.  
+\- Your Highness, know that these are the orders! he told me with an ironic smile. We must start by evacuating the tanks.  
+\- What ?! I replied as I stepped towards Ben. No, that's not possible ! Ben, no! Start by saving your men!  
+\- Rey, I already have enough troops, Ben pointed out calmly. Tanks are very valuable. A tank costs a lot more than a Stormtroopers regiment.  
+No, it was not possible! Ben could not say such a thing!  
+\- Ben! But it's inhuman all that! Tell yourself that ... once the wing failed on the planet, you can recover tanks and even spare parts and remake others! We can not do that with men! You think that with a body here, a head over there you can recreate men? No!  
+\- Your Highness ! Hux replied. If we leave the tanks in the ship, it is unlikely that we can rebuild them after the crash of the wing on the planet!  
+\- General! I said dryly, turning my head toward him. Know that you can recover many more things than you think on a ship failed! For more than ten years, I was a scavenger on Jakku. And I know everything that can be recovered in a ship that has failed!  
+I turned to Ben.  
+\- Ben, save your troops! I begged him.  
+\- Rey, he replied, trying to reason with me, do you think I'm going to stop all the maneuvers that are going on to save those men who cost much less than tanks?  
+\- But Ben ... tell yourself that they are human too ... If you save them, they will see that their new Supreme Leader does not neglect them! They will be eternally grateful to you! Faithful! You can not neglect that! They will fight for the First Order not only by discipline, as before, but also by loyalty to you who saved them!
+
+As I spoke, I saw the conflict settle in Ben. Should he maintain the orders? or go back on his decision and follow my advice? Something he had already done during the battle on Crait.  
+He looked at me.  
+\- Rey, come on. We must speak, he declared to me.  
+He turned to leave the command post. General Hux, seeing that I had not convinced Ben, looked at me with a small smile of victory. I was shattered to see that Ben did not change his mind. I then took the direction of the door behind Ben.
+
+But he does not cross it. He turned to the left. I realized there was a small door. At a glance, I realized that he wanted me to follow him in this room.  
+The door passed, it closed. In the room there was a large desk. And a big seat. What was this piece? A secret office? An office where we could talk without anyone hearing us? Maybe.  
+Ben turned to me. He was still angry. But it was not the same as before his men. There was no rage on his face. Neither hate. Rather annoyance.  
+\- Rey! Stop contradicting me in front of my staff! he began, annoyed.  
+\- Ben ... it's not to contradict you that I'm doing that ... I mumbled. You were going to make a terrible mistake, irreparable. If I had told you all that after the fall of the wing on the planet, you would have lived it badly. I know it.
+
+I felt that inside, Ben thought I was not wrong. He breathed heavily.  
+\- Rey ... next time, think about it very hard as we did on Crait. But don't do it so in front of my staff. I have the impression that they see me more and more as a weak leader. Low and suggestible.  
+\- Ben, I'll try my best, I promised him, realizing he was right.  
+Indeed, by dint of contradicting him in front of his men, I did not help him to install his authority. On the contrary, he seemed more like a manipulable leader.  
+Still very tense, Ben went to the door. But when I reached my height, I stopped him by taking his arm.  
+\- Ben, wait before going out. I understand that contradicting you in front of your staff is not a good idea. But you, keep your cool.  
+He looked at me.  
+\- Yes, Rey.  
+I released his arm. We left the room.
+
+All eyes turned to us. Many were surprised at the lack of conflict between us. But also because we did not show any marks of combat. They had to think that Ben, furious, had pulled his lightsaber in front of me.  
+\- Supreme Leader! What do we have to do? asked General Hux before giving me a defiant look.  
+There, Ben did not stop. He continued to walk towards the door.  
+\- What she said ! he shouted as he left the room without looking back.  
+
+## Chapter 7
+In the corridor, Ben was walking very fast. But he did not have the proud side, the high head he usually had. Many times I tried to approach him, to thank him for the decision he made. But every time he stopped me with his arm. Even before I can say a word.  
+We arrived in front of an elevator and went inside. Ben asked for the highest level. He wanted to go to the throne room.  
+The doors closed and the elevator began to rise.
+
+We were both facing the doors. The atmosphere was tense.  
+\- Rey, forgive me. But my role as the new Supreme Leader is not easy, Ben told me without turning around. I have a lot more tasks than I thought.  
+\- Ben, I can help you, I replied, looking at him.  
+\- I know, Rey. But these are tasks that I have to do myself. Go to each service for a first visit as Supreme Leader. Reform the old guidelines.  
+He turned to me and looked me in the eyes.  
+\- Rey, I already told you. I want to create a new Order.  
+I turned too, facing him.  
+\- But Ben, I'm here. I will support you. If you want, once the instructions are given, I ...
+
+But the elevator stopped. The doors opened and prevented me from finishing my sentence.  
+We had arrived in the corridor, facing the doors leading to the throne room. Three men were waiting. Seeing us arrive, they turned to us and bowed.  
+\- Supreme Leader, said one of them, as you told us, we have come to present the progress of our research.  
+\- Good. Let's go see that in the throne room.  
+Ben had responded with a much firmer tone than a few moments ago in the elevator. He had also lost his fragile and sincere face. He was once again the authoritarian leader he wanted to be.  
+He walked to the door and put his hand on the detector. The door rose and he motioned for me to follow him. I heard discreet signs of surprise behind us. I wanted to ask Ben what was happening but I preferred to wait until the door closed to do it. As an ally of the Supreme Leader, I could not behave like a little girl who asked questions to understand the world around her.  
+Once the door went down and the horizontal plate slid, I told him my question.  
+\- Rey, tell yourself that you are the first to cross these gates with the Supreme Leader.  
+\- What ?!  
+\- No one has the right to pass his doors at the same time as the Supreme Leader. This is a rule that Snoke had introduced and that I didn't change.  
+Hearing these words, I realized that Ben offered me honors that no one had yet received in the First Order. I knew that in his eyes I was not anyone. But the importance of these favors was still impressive. I should be careful because all this could cause great jealousy on the part of some of his men.
+
+The second door rose and we entered the room. We were walking to the throne as the door opened to let in the three men.  
+Arrived before the throne, Ben turned around. I did the same. The men stopped then and bowed.  
+\- Alright," Ben began. Engineer Mercal, what do you have to present me today?  
+The men got up. One of them stepped forward.  
+\- Supreme Leader, we've discovered a much stronger material for Stormtroopers' armor, he said, presenting a plate of this material. It makes men immune to blaster fire from more than ...
+
+But a little ringing sounded and cut the engineer. I suddenly saw everyone turning to me. But no one was looking at my face. Before I could react, Ben took my arm and pulled me back. That's when I understood. I was at the site of a hologram that had just appeared. It was Chief Medical Officer Ferta.  
+Ben approached the throne and pressed a button to activate the communication.  
+\- Supreme Leader, Ferta began quickly. Forgive me for disturbing you but my infirmary has big problems.  
+I felt Ben wondering if there was still a shot up. But there, he did not let anything appear and continued to listen to the doctor.  
+\- I just received a hundred Stormtroopers and I was told it was just the beginning! Others would arrive!  
+\- I know, answered Ben. It was I who gave the order. I ordered that all Stormtroopers still on Snoke's ship be evacuated.  
+I saw the doctor a little surprised by the order given but he was trying not to show him fearing Ben's reaction.  
+\- Alright, Supreme Leader. But my infirmary is already filled. And that the adjacent services refuse to cooperate because of confidential reasons.  
+Ben frowned, staring into space. He looked at me for a brief moment before going back to his thoughts. Then he went to the doctor.  
+\- Ferta, tell the people in charge of the adjacent services to come to the infirmary and wait for the orders!  
+\- At your orders, Supreme Leader, the doctor answered, bowing.  
+Then the hologram went out.
+
+Ben turned to me.  
+\- Rey, I can not postpone this meeting with my engineers. I have every confidence in you. Go to the infirmary and give the necessary orders for everything to go smoothly. You have carte blanche for all services.  
+I could not believe what I had just heard! Ben gave me carte blanche for all the services to solve the problem of the infirmary? Problem due to the evacuation of the Stormtroopers that I had asked him myself? I could not believe it.  
+But after a moment of astonishment, I recovered my senses.  
+\- Ok, Ben. I'm going right now, I replied as I walked to the door.
+
+But after a few steps I heard one of the men speak.  
+\- Hum, he said, clearing his throat. Supreme Leader, Highness Rey, may I make a comment?  
+I stopped and turned to him.  
+\- What is it ? I huffed to answer before Ben reacted, annoyed by these words. I'm listening to you.  
+\- Supreme Leader, the man began, turning to Ben. As you have ordered, we owe absolute respect to your ally, Highness Rey. However, you never mentioned obedience.  
+I felt that Ben's mood was starting to bubble when he heard those audacious words. Feeling too, the man hastened to continue.  
+\- I believe that if Highness Rey gives orders which the other services don't like, she will have problems. Some might refuse to obey her ...
+
+Ben relaxed. These remarks were intended only to address difficulties that I might encounter. No sign of irony or insubordination in words.  
+\- Rey, said Ben. Go ahead. You will not have the problems mentioned. I will put the order!  
+\- Okay, I replied.  
+But before turning back to the door, I addressed this man:  
+\- Thanks for these remarks, uh ... what's your name?  
+\- I am engineer Dodias, assistant to the engineer Mercal.  
+\- Thank you, engineer Dodias, I finished before running to the door.  
+I felt behind me that the three men were surprised by this thanks. They did not expect that. They had to think that I only took care of what Ben had told me to do. None of his staff.
