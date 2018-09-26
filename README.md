@@ -5,6 +5,8 @@ Cette fanfiction de Star Wars est basée uniquement sur les films. Aucune inform
 Le récit commence après la mort du Grand Snoke et le combat de Kylo Ren et Rey contre la garde prétorienne dans le film _The Last Jedi_. 
 Rey, qui raconte l'histoire, est repartie et a rejoint Chewie à bord du Faucon Millenium.
 
+
+
 ## Chapitre 1
 Chewie et moi, à bord du Faucon Millenium, arrivions sur la planète Crait. La bataille faisait rage. Les chasseurs résistants faisaient tout leur possible pour éliminer une grosse machine qui, apparemment, allait détruire la porte principale de la grotte où était située la base.  
 Chewie et moi décidâmes alors de venir en aide à tous ces pilotes héroïques. Nous fonçâmes vers les chasseurs adverses. Après quelques tirs qui en tuèrent plusieurs, nous repartîmes afin de les attirer loin du champ de bataille. Ils nous suivirent. Nous sommes passés par plusieurs tunnels et à la fin, en sortant, nous les avions tous détruits. Certains avaient percuté des parois, des stalactites, et d'autres avaient raté des virages.  
@@ -17,7 +19,7 @@ J'ai alors pris une décision. Une décision qui pouvait changer l'avenir de la 
 Nous arrivions à la hauteur du vaisseau. Ben et moi échangeâmes un regard à travers les vitres.  
 \- Ben, si tu crois vraiment que c'est la bonne solution, que le côté obscur est le plus fort, viens ! Viens sur le champ de bataille ! Battons-nous en duel ! Viens, montre que tu es un vrai chef!
 
-J'ai coupé le micro et fis signe à Chewie de repartir. Nous descendîmes à mi-distance entre la grande porte et les premières lignes ennemies.
+J'ai coupé le micro et fis signe à Chewie de repartir. Nous descendîmes à mi-distance entre la grande porte et les premières lignes ennemies.  
 Je sentais le conflit en Ben. J'ai essayé de lui transmettre un message en le pensant intensément : _"Ben, viens je t'en supplie ! Ben, de toute façon, si tu refuse un tel défi, ton honneur sera sali. Viens vite ! Viens montrer à tes hommes que tu es un vrai chef ! Viens te battre !"_  
 J'ai eu l'impression qu'il avait senti mon appel car je vis soudain le vaisseau descendre et atterrir. Il sortit, assez en colère et s'approcha de moi, à une dizaines de mètres.  
 
@@ -294,7 +296,7 @@ Après quelques instants de stupeur, j'ai levé doucement la main. Son regard in
 Je ne savais pas quelle attitude adopter. Devais-je être ravie par ce cadeau que me faisait Ben, ou plutôt fière face à ses hommes ? J'ai avalé ma salive et, le visage fier, je l'ai remercié en essayant de mettre toute ma gratitude dans le regard.  
 
 Puis son visage prit une grande fermeté et il se tourna vers ses hommes.
-\- Bien, maintenant, reprenons le problème du vaisseau. Glario, combien de temps nous reste-t-il avant que'il ne s'écrase sur Crait ?
+\- Bien, maintenant, reprenons le problème du vaisseau. Glario, combien de temps nous reste-t-il avant qu'il ne s'écrase sur Crait ?
 \- Nos calculs sont formels, Suprême Leader. Six heures et vingt-six minutes, répondit l'ingénieur en regardant sa montre.  
 \- Général, ordonna-t-il froidement, je veux que tous les chars à bord du vaisseau soient évacués avant ce délai.  
 \- Ce ne sera pas possible, Suprême Leader. Car même si tous les hommes s'en occup...  
@@ -414,7 +416,7 @@ Nous marchions tellement vite dans les couloirs que certains hommes avaient à p
 Ben entra dans la pièce, furieux. Je le suivis.  
 Cette pièce était bizarre. Le sol sur lequel nous marchions n'était pas aussi large que la pièce. De chaque côté, en contrebas, des hommes face à des machines, des ordinateurs. Au fond, devant la grande baie vitrée donnant sur l'espace, le Général Hux et des officiers.  
 Une fois arrivés à leur hauteur, nous nous sommes arrêtés.  
-\- Général Hux !  commença Ben. Que se passe-t-il ? Pourquoi l'aile va-t-elle s'écraser plus tôt que prévu ?!  
+\- Général Hux ! commença Ben. Que se passe-t-il ? Pourquoi l'aile va-t-elle s'écraser plus tôt que prévu ?!  
 \- Suprême Leader, le réservoir de carburant de l'aile fuit, lui répondit le Général Hux avec son ton sec habituel. Et là, la fuite s'est aggravée. Tout le carburant risque d'être expulsé dans le vide.  
 Contre mon bras, je sentis celui de Ben se tendre et ses poings se serrer. Alors, avec la plus grande discrétion possible, je lui donnai un petit coup de coude pour l'encourager à garder son calme. Il dut le sentir car il n'a pas explosé de colère. Il parla par contre avec la mâchoire très tendue. Et un ton très autoritaire.  
 
@@ -461,7 +463,7 @@ Là, Ben ne s'arrêta pas. Il continua de marcher vers la porte.
 \- Ce qu'elle a dit ! cria-t-il en sortant de la pièce sans se retourner.  
 
 ## Chapitre 7
-Dans le couloir, Ben marchait très vite. Mais il n'avait pas le côté fier, la tête haute qu'il avait d'habitude. Plusieurs fois, j'ai essayé de l'aborder, de le remercier pour la décision qu'il avait prise. Mais à chaque fois, il m'arrêtait avec son bras. Et ce avant même que je ne puisse prononcer un mot.  
+Dans le couloir, Ben marchait très vite. Mais il n'avait pas le côté fier, la tête haute qu'il avait d'habitude. Plusieurs fois, j'ai essayé de l'aborder, de le remercier pour la décision qu'il avait prise. Mais à chaque fois, il m'arrêtait avec son bras, énervé. Et ce avant même que je ne puisse prononcer un mot.  
 Nous arrivâmes devant un ascenseur et entrâmes dedans. Ben demanda le niveau le plus élevé. Il voulait aller dans la salle du trône.  
 Les portes se fermèrent et l'ascenseur commença à monter.  
 
@@ -483,7 +485,7 @@ Il s'avança vers la porte et posa sa main sur le détecteur. La porte se leva e
 Une fois la porte redescendue et la plaque horizontale glissant, je lui fis part de mon interrogation.  
 \- Rey, dis-toi que tu es la première qui franchit ces portes en compagnie du Suprême Leader.  
 \- Quoi ?!  
-\- Personne n'a le droit de passer ses portes en même temps que le Suprême Leader. C'est une règle que Snoke avait instaurée et que je n'ai pas modifiée.  
+\- Personne n'a le droit de passer ses portes en même temps que le Suprême Leader. C'est une règle que Snoke avait instaurée. Je ne l'ai pas modifiée.  
 En entendant ces paroles, je me suis rendue compte que Ben m'offrait des honneurs que personne n'avait encore reçus dans le Premier Ordre. Je savais qu'à ses yeux, je n'étais pas n'importe qui. Mais l'importance de ces faveurs était tout de même impressionnante. Il faudrait que je sois prudente car tout cela pourrait provoquer de grandes jalousies de la part de certains de ses hommes.  
 
 La seconde porte se leva et nous entrâmes dans la salle. Nous marchions vers le trône quand la porte s'ouvrit pour laisser entrer les trois hommes.  
@@ -510,6 +512,7 @@ Ben se tourna vers moi.
 Je n'arrivais pas à croire ce que je venais d'entendre ! Ben me donnait carte blanche pour tous les services afin de régler le problème de l'infirmerie ? Problème dû à l'évacuation des Stormtroopers que je lui avais moi-même demandé ? Je n'en revenais pas.  
 Mais après un court instant d'étonnement, je repris mes esprits.  
 \- D'accord, Ben. J'y vais tout de suite, lui répondis-je en me dirigeant vers la porte.  
+
 Mais après quelques pas, j'entendis un des hommes prendre la parole.  
 \- Hum hum, fit-il en se raclant la gorge. Suprême Leader, Altesse Rey, puis-je me permettre de vous faire une remarque ?  
 Je me suis arrêtée et me suis tournée vers lui.  
@@ -517,6 +520,7 @@ Je me suis arrêtée et me suis tournée vers lui.
 \- Suprême Leader, commença l'homme en se tournant vers Ben. Comme vous nous l'avez ordonné, nous devons le respect absolu à votre allié l'Altesse Rey. Cependant, vous n'avez jamais mentionné l'obéissance.  
 Je sentais que l'humeur de Ben commençait à bouillonner en entendant ces paroles audacieuses. Le sentant aussi, l'homme s'empressa de continuer.  
 \- Je crois que si l'Altesse Rey donne des ordres qui ne plaisent pas aux autres services, elle rencontrera des problèmes. Certains pourraient refuser de lui obéir...  
+
 Ben se détendit. Ces remarques n'avaient pour but que d'aborder des difficultés que je pourrais rencontrer. Aucun signe d'ironie ou d'insubordination dans les paroles.  
 \- Rey, fit Ben. Vas-y. Tu n'auras pas les problèmes évoqués. Je vais faire passer la consigne !  
 \- D'accord, répondis-je.  
@@ -525,3 +529,198 @@ Mais avant de me retourner vers la porte, je me suis adressée à cet homme :
 \- Je suis l'ingénieur Dodias, assistant de l'ingénieur Mercal.  
 \- Merci, ingénieur Dodias, terminai-je avant de courir vers la porte.  
 Je sentis derrière moi que les trois hommes étaient surpris par ce remerciement. Ils ne s'attendaient pas à cela. Ils devaient penser que je ne m'occupais que de ce que Ben m'avait chargé de faire. Aucunement de ses hommes.
+
+## Chapitre 8
+Une fois les portes passées, je courus prendre l'ascenseur. Mais au moment d'y pénétrer, une question traversa mon esprit : à quel étage était l'infirmerie ? Je ne me souvenais plus. J'ai regardé autour de moi afin de trouver un plan. Mais rien. Et aucun homme en vue.  
+Je suis alors entrée dans l'ascenseur pour aller chercher de l'aide quelques niveaux plus bas. En sortant, je vis plusieurs patrouilles défiler. D'autres Stormtroopers marchaient seuls. J'en ai abordés plusieurs mais à chaque fois, après un salut respectueux, ils me répondaient qu'ils ne pouvaient pas m'aider à cause d'une charge urgente qu'on leur avait confiée. Cela commençait à m'agacer. Cela me faisait perdre un temps précieux.  
+Puis je me suis souvenue de la fois où je m'étais échappée de la Starkiller en manipulant le Stormtrooper chargé de me surveiller...  
+J'ai abordé un Stormtrooper et me suis placée devant lui. Il se mit au garde-à-vous.  
+\- Conduis-moi à l'infirmerie, déclarai-je fermement.  
+\- Désolé Altesse, me répondit-il. Mon supérieur m'a chargé d'une tâche que je dois réaliser dans un bref délai.  
+Il commença à vouloir reprendre son chemin. Mais je ne me suis pas écartée.  
+\- Tu vas me conduire à l'infirmerie, répétai-je en insistant.  
+\- Désolé, je ne peux pas.  
+\- Tu vas me conduire à l'infirmerie, répétai-je encore en insistant lentement.  
+\- Je vais vous conduire à l'infirmerie, répéta-t-il en se redressant.  
+\- Tu prendras le chemin le plus rapide.  
+\- Je prendrai le chemin le plus rapide.  
+Et il s'engagea dans l'ascenseur. Je le suivis.  
+
+L'infirmerie se trouvait au niveau cinq. En sortant de l'ascenseur, j'ai essayé de mémoriser des repères afin de pouvoir retrouver mon chemin toute seule.  
+Au fur et à mesure que nous avancions, j'entendais des sonorités faibles se transformer en vacarme. Je voyais de plus en plus de personnes courir dans tous les sens. La panique régnait. Puis, à la sortie d'un virage, nous sommes arrivés dans un petit hall donnant sur l'infirmerie.  
+Je vis Ferta, accompagné de deux hommes assez énervés. Il s'avança vers moi. Mais avant qu'il ne commençât à parler, je me suis tournée vers le Stormtrooper.  
+\- Tu vas retourner dans ton service et réaliser les ordres donnés, lui ordonnai-je.  
+\- Je vais retourner dans mon service et réaliser les ordres donnés, répéta-t-il.  
+\- Ton retard est dû à un ordre de l'Altesse Rey.  
+\- Mon retard est dû à un ordre de l'Altesse Rey.  
+
+Une fois le Stormtrooper parti, je me suis tournée vers Ferta et les deux hommes qui étaient à côté.  
+\- Altesse Rey, fit Ferta, le Suprême Leader m'a averti de votre venue. Quels sont ses ordres ?  
+\- Le Suprême Leader ne m'a pas donné d'ordre précis. Il m'a chargé de gérer moi-même l'accueil des blessés et il m'a donné carte blanche sur tous les service.  
+Les hommes furent stupéfaits par ma réponse. Ferta, sachant que c'est moi-même qui avait ordonné le sauvetage des blessés, était soulagé : les ordres donnés seraient en sa faveur. Quant aux deux autres, ils paraissaient assez tendus.  
+\- Altesse Rey, fit Ferta, laissez-moi vous présenter le Capitaine Aberta et le Commandant Turinol. Ils s'occupent des services voisins à l'infirmerie.  
+Les deux hommes se mirent au garde-à-vous.  
+\- Bien, commençai-je. De quels services êtes-vous responsables ?  
+\- Moi, répondit le Capitaine Aberta, je m'occupe des salles d'entraînement des Stormtroopers. Je ne vois vraiment pas comment ces installations sportives pourraient aider à soigner des soldats.  
+\- Et vous ?  
+\- Moi, Altesse Rey, répondit le Commandant Turinol, je m'occupe de logements d'officiers.  
+\- Ferta, fis-je en me retournant vers lui. Dites-moi, comment pensez-vous que ces services pourraient vous aider ?  
+\- Altesse Rey, commença-t-il, comme je vous ai dit, l'infirmerie est déjà remplie. J'ai cent dix places. Mais il paraît que plus de trois cents Stormtroopers vont arriver.  
+\- Donc il vous faut de la place pour accueillir les blessés ?  
+\- Oui voilà, Altesse Rey. C'est surtout d'espace pour accueillir les blessés. Le personnel, j'en ai suffisamment. Et en former d'autre maintenant serait impossible.  
+\- Je comprends. Vous Capitaine, vous dîtes que vous vous occupez du service d'entraînement sportif des Stormtroopers.  
+\- Oui, Altesse Rey.  
+\- Vous avez donc des gymnases.  
+\- Bien sûr Altesse Rey, me répondit-il. Mais...  
+Là, je vis qu'à l'instant où il prononça ces mots, il comprit où je voulais en venir.  
+\- Mais Altesse Rey, s'indigna-t-il, des gymnases ne peuvent pas accueillir des soldats blessés ! De toute façon, même si les salles sont grandes, il y a trop de matériel pour que des blessés puissent s'y installer ! Ou alors, continua-t-il en montrant Ferta du menton, le personnel devra zigzaguer entre toutes les barres, les haltères, les.. et autres matériel.  
+\- Ferta ?  
+\- Oui, Altesse Rey ?  
+\- Avez-vous déjà vu ces gymnases ?  
+\- Oui, bien sûr.  
+\- Vous pensez pouvoir mettre combien de blessés dedans ?  
+\- Je dirais que, pour les gymnases, je pourrais mettre des patients qui ne sont pas gravement atteints. Je pense que nous pourrions en mettre quatre-vingt voire cent par gymnase. Mais il m'en faudrait deux.  
+\- Quoi ?! fis le capitaine, c'est impossible ! Inconcevable !  
+Je me suis tournée vers lui et, fermement :  
+\- Capitaine, ça suffit ! Arrêtez de protester ! Je veux que d'ici vingt minutes un gymnase, le plus proche de l'infirmerie, soit dégagé ! Son accès aussi ! Et dans quarante minutes, je veux qu'un second gymnase le soit aussi !  
+\- Vingt minutes Altesse Rey ?! Comment pourrais-je faire ? Et où pourrais-je mettre le matériel ?  
+\- Et bien, je pense que vous n'avez pas seulement deux gymnases, Capitaine.  
+\- Non, c'est insensé ! Comment les hommes pourront-ils s'entraîner ?  
+\- Capitaine, répliquai-je, le Suprême Leader m'a donné carte blanche. C'est-à-dire tous les droits. Dîtes-vous que les soldats peuvent bien suspendre leur entraînement quelques jours le temps que leurs camarades se fassent soigner. Allez-y, c'est un ordre !  
+
+Je voyais le capitaine me défiait du regard. Et là, je sentis que je n'avais pas le choix. Je devais imposer mon autorité.  
+\- Capitaine, faîtes ce que je vous ai dit, dis-je fermement en posant la main sur mon sabre-laser attaché à la ceinture.  
+Là, il vit lui aussi qu'il n'avait pas le choix.  
+\- Je vais donner les ordres, Altesse Rey. Mais je ne peux pas vous garantir que d'ici vingt minutes le premier gymnase sera dégagé.  
+Je l'ai regardé dans les yeux et lui ai dit :  
+\- Il le faut, Capitaine.  
+Et il se retourna pour partir dans son service.  
+
+Je me suis alors tournée vers le commandant.  
+\- Commandant, vous vous occupez des logements, c'est ça ?  
+\- Oui, Altesse Rey.  
+\- Ferta, qu'en pensez-vous ? demandai-je en tournant la tête vers le médecin.  
+Et là, je vis avec étonnement un autre médecin.  
+\- Pardonnez-moi Altesse Rey, commença-t-il mal à l'aise, comme s'il craignait que je ne m'énerve. Le médecin Ferta a été appelé pour une opération grave et il m'a chargé de le remplacer... Je suis son adjoint...  
+\- Bon, très bien. Comment vous appelez-vous ?  
+\- Je suis le médecin Lacello.  
+\- Bien Lacello. À votre avis, il faudra encore combien de places ?  
+\- Le médecin Ferta pense qu'il faudra encore une centaine de lits.  
+\- Quoi ?! s'écria le commandant. C'est impossible ! Je ne peux pas libérer cent lits comme ça ! Serrez-les un peu plus dans les gymnases !  
+\- Nous pouvons peut-être en mettre plus dans les gymnases mais il nous faudra quand même des lits individuels pour gérer les cas les plus graves, Commandant, lui précisa Lacello.  
+
+Je voyais que le commandant n'avait pas tout à fait tort : déloger cent officiers pour accueillir des blessés ne serait pas facile. Mais je ne pouvais pas m'incliner ainsi.  
+\- Commandant, dégagez cent lits, ordonnai-je. Immédiatement.  
+\- Altesse Rey... protesta-t-il. Les hommes ne voudront pas partir ainsi.  
+\- Quoi ?! m'étonnai-je. Mais... Vous n'allez pas dire que vous ne savez pas imposer la discipline dans votre service, Commandant !  
+\- Altesse Rey, m'expliqua-t-il un peu gêné, je m'occupe du service des logements, mais ceux qui y logent ne sont pas mes subordonnées. Il y en a même qui sont mes supérieurs hiérarchiques.  
+Je compris. Lui était le responsable du service des logements, donc des hommes qui s'occupaient de l'entretien, mais pas des personnes qui y habitaient.  
+\- Je comprends, avouai-je. Dans ce cas, dites que c'est moi qui en donne l'ordre.  
+\- Oui, Altesse Rey. Mais je ne peux rien vous garantir, ajouta-t-il toujours gêné. J'essayerai de faire de mon mieux mais je ne sais pas si tous les hommes voudront obéir.  
+\- Commandant, faites-le le plus rapidement possible.  
+\- Bien, Altesse Rey, termina-t-il en se mettant au garde-à-vous avant de partir.  
+Le médecin paraissait soulagé par les ordres que je venais de donner.  
+\- Merci beaucoup, Altesse Rey. Mais... Excusez-moi... il y a beaucoup de travail...  
+\- Oui, oui, allez-y ! Dépêchez-vous ! lui répondis-je avec des gestes.  
+
+## Chapitre 9
+Je voyais toute une foule courir dans les couloirs avec des brancards ou des soldats qui s'appuyaient les uns sur les autres pendant que le personnel courait à contre sens pour chercher d'autres blessés dans le grand hall. Je n'avais qu'une envie, c'était de les aider à marcher. Je commençai à faire un pas vers eux, mais non. Je ne pouvais pas faire ça. J'étais l'alliée du Suprême Leader, j'avais carte blanche que tous les services et je voulais épauler des Stormtroopers blessés ? Non, je ne pouvais pas faire ça. Mon rôle me l'interdisait.  
+À contre cœur, je les regardais faire.  
+Tout à coup, je vis Ferta sortir de la foule et venir vers moi.  
+\- Altesse Rey, excusez-moi de m'être absenté mais...  
+\- Oui, oui, Ferta. Votre adjoint m'a prévenue.  
+\- Ah, d'accord...  
+\- Je vais aller dans le grand hall voir comment cela se passe, indiquai-je. Si d'ici vingt minutes, le capitaine et le commandant n'ont pas dégagé les premières salles, prévenez-moi.  
+\- Oui, Altesse Rey.  
+Et il repartit tout de suite.  
+
+Je me suis engagée dans le couloir, au milieu de toutes ces personnes qui courraient. Tout le monde se bousculait.  
+En arrivant dans le grand hall, j'ai vu qu'une navette d'où sortaient des Stormtroopers était arrêtée et des blessés continuaient à descendre. Mais tout autour, aucun espace de libre. Il y avait pleins de chasseurs et autres vaisseaux. Sur ma droite, près de l'ouverture du hall donnant sur l'espace, je vis des officiers discuter. Je me suis avancée vers eux. En me voyant, ils se mirent au garde-à-vous.  
+\- Officiers, dans combien de temps arrive la prochaine navette ?  
+\- Altesse Rey, je crois qu'elle doit arriver dans cinq minutes.  
+\- Vous croyez ou vous savez ?  
+Là, je les vis tous se raidir en avalant leur salive. L'un s'avança et, très gêné, m'expliqua :  
+\- La prochaine navette devrait arriver dans cinq minutes mais elle devra attendre que la première soit partie pour lui laisser la place.  
+\- Quoi ?! Tous ces chasseurs ne servent à rien pour le moment ! fis-je en montrant du bras le hall entier. Évacuez-les de façon à ce qu'une deuxième navette puisse s'installer !  
+\- Mais... Altesse Rey... ils sont ici. Ils n'ont aucune raison de s'envoler.... il n'y a aucune bataille... C'est dans ce hall qui doivent rester lorsqu'ils ne servent pas.  
+\- Peu importe ! Emmenez-les sur d'autres vaisseaux, d'autres croiseurs, faites-les voler, serrez-les plus ! Peu importe ! Faites en sorte qu'une deuxième navette puisse atterrir ici sans souci !  
+\- Oui Altesse Rey. Je vais essayer de trouver le responsable du hall pour lui dire...  
+\- Oui, faites-le.  
+L'homme se mit au garde-à-vous et partit. Les autres, raides et mal à l'aise, se lançaient des regards en biais, ne sachant pas quoi faire face à moi. Derrière eux, je voyais l'ouverture du hall sur l'espace et plus loin, le vaisseau de Snoke.  
+\- Bien. Pourriez-vous... euh... Amenez-moi des jumelles.  
+\- Oui, Altesse Rey.  
+Un homme partit en chercher.  
+Voyant que je commençais à marcher, les autres officiers se mirent au garde-à-vous pour me faire un passage. En passant devant eux, je me demandais si un jour je m'habituerais à ces rangées d'officiers qui se mettent au garde-à-vous sur mon passage.  
+Je suis allée près de l'ouverture pour observer le vaisseau en perdition.  
+Un homme m'apporta les jumelles. J'observai le vaisseau dans sa globalité puis je m'intéressai aux hommes qui essayaient de ramener les blessés à bord des navettes.
+Je vis des chasseurs partirent du hall pour faire de la place aux autres navettes. Je me suis retournée et j'ai redonné les jumelles à l'officier qui me les avaient apportées et qui attendait derrière moi.  
+
+Il était temps d'aller vérifier si le capitaine Aberta et le commandant Turinol avaient fait leur travail et dégagé assez de place pour accueillir les blessés.  
+Je me suis dirigée vers la porte du couloir menant à l'infirmerie. En progressant, j'ai vu une deuxième navette arriver dans le hall. Mais avant qu'elle n’atterrisse et qu'elle n'ouvre ses portes pour faire sortir les blessés, je vis que la première n'était entièrement vidée et que le couloir était toujours plein de va-et-vient. Il y avait trop de monde. Cela serait impossible à gérer.  
+
+Et là, je ne sais pourquoi, mon regard s'arrêta sur une porte, située juste après celle du couloir. Je n'arrivais pas à détacher mes yeux de cette porte. Si je les détournais, ils revenaient dessus.  
+J'ai alors essayé de me frayer un chemin à travers les blessés qui essayaient de rentrer dans le couloir et les soignants qui venaient les aider.  
+J'étais près de la porte. Je me suis un peu écartée afin de mieux voir. Cela semblait être une porte soudée. Avec une grosse caisse devant. Quelle était cette porte ? Pourquoi mon regard s'y attachait-il ainsi? J'ai regardé autour de moi et à ma droite, au fond du hall, je vis un officier passer.  
+\- Officier ! criai-je.  
+Il tournait la tête et vit que je m'adressais à lui. Il s'approcha. Arrivé à ma hauteur, il se mit au garde-à-vous. Je ne savais vraiment pas si je m'habituerais à cette discipline.  
+\- Oui, Altesse ?  
+\- Où mène cette porte ?  
+\- Altesse Rey, cette porte a été condamnée.  
+\- Pourquoi ?  
+\- Son système de sécurité ne marche plus. En cas de problème dans le hall, elle ne se referme pas automatiquement.  
+\- Mais où mène-t-elle ?  
+\- Cette porte mène à un couloir parallèle au premier et qui le rejoint un peu plus loin.  
+\- Quoi ? Vous voulez dire qu'il arrive aussi à l'infirmerie ?  
+\- Oui, Altesse Rey.  
+
+Dans ma tête, une idée venait de surgir. Si deux couloirs donnaient sur le hall et l’infirmerie, pour éviter les chassés-croisés, il suffisait de faire un couloir pour entrer et un pour sortir...  
+\- Bien. Officier, donnez les ordres pour dégager cette porte au plus vite !  
+\- Hum... Altesse Rey... Ce n'est pas de mon ressort...  
+\- Allez le dire au responsable !  
+\- À vos ordres, Altesse Rey.  
+Mais à peine était-il parti que des pas approchèrent et une voix ferme répondit.  
+\- Stop Adjudant ! N'y allez pas !  
+
+Je me suis retournée. Je vis le Général Hux suivi de deux hommes. Il se dirigeait vers moi. L'adjudant, lui, ne savait plus quoi faire.  
+\- Comment, Général ?! Pourquoi arrêtez-vous cet adjudant ? Je lui ai donné un ordre !  
+\- Oui, Altesse Rey. Mais moi je viens de lui en donner un deuxième, me répondit-il avec un sourire ironique.  
+\- Vous n'avez pas à contredire mes ordres ! Le Suprême Leader m'a donné tous les droits pour organiser l'accueil de ces blessés !  
+\- Ah oui... je vois... Mais qu'allez-vous faire maintenant ? Vous allez aller vous plaindre auprès de lui pour qu'il me punisse ? Hum... continua-t-il en ricanant. Il va falloir que vous appreniez des choses Altesse Rey...  
+\- Général Hux, il faut que cette porte s'ouvre !  
+\- Quoi ? Vous voulez encore changer ça ?! Altesse Rey, vous ne croyez pas que vous avez fait assez de dégâts comme ça dans l'organisation du hall ? Non, ça suffit. Déjà tous les chasseurs qui ont dû partir ! Et maintenant vous voulez dégager une porte qui, débloquée, menace la sécurité du hall ?!  
+\- Général Hux ! Plus vite elle sera dégagée, plus vite les blessés seront accueillis. Et plus vite le hall reviendra à son organisation normale !  
+\- Ah... Vous êtes amusante, Altesse Rey. Mais cette autorité ne marche pas sur moi, me répondit-il ironiquement avant de se retourner. Adjudant, donnez plutôt les ordres pour que les chasseurs reviennent.  
+Là, j'ai senti qu'il fallait mettre un coup de poing sur la table.  
+\- Adjudant ! Faites ce que je vous ai dit ! ordonnai-je. N'écoutez pas le Général ! Vous en répondrez devant le Suprême Leader !  
+Là, l'adjudant se mit au garde-à-vous, très raide et mal à l'aise. Puis il partit.  
+Le général, le sourcil levé, se retourna vers moi. Avec un sourire ironique, il me défiait du regard.  
+
+Soudain, une phrase de Maître Luke résonna en moi. _"Soulever des rochers."_ Je compris alors que c'était le moment d'imposer mon autorité au Général Hux en utilisant la Force.  
+Je me suis tournée vers la porte. Je tendis mon bras devant moi et fermai les yeux. En inspirant fortement, je commençais à sentir des liens entre tout ce qui était autour de moi. Et j'arrivais même à deviner où étaient les objets. Petit à petit, les liens devenaient plus forts. Et je sentis un flux venir de ma main pour remonter jusqu'à mon épaule.  
+Soudain, je sentis que ce flux venait de plus loin. De la caisse. Et en inspirant fortement, je pus rendre ce lien plus fort, plus solide. Les yeux toujours fermés, je pus voir la caisse se lever doucement.  
+En ouvrant les yeux, je vis qu'elle était exactement comme je la pensais. À un mètre du sol. 
+J'ai alors tourné légèrement mon bras pour la dégager de l'ouverture des portes.  
+
+Je sentis que certains autour de moi s'étaient arrêtés, stupéfaits. N'y prêtant pas attention attention, je continuai de déplacer la caisse puis commençai à la faire descendre sur le sol.  
+\- Altesse Rey ! cria le Général Hux. Attention ! Cette caisse est une réserve de grenades ! Vous allez tout faire exploser !  
+C'était une caisse pleine d'explosifs ? Je devais alors la poser très doucement.  
+J'ai bien avalé ma salive. Le bas de la mâchoire raide, je la fis atterrir tout doucement sur le sol.  
+Pendant quelques secondes, tout le monde retint son souffle de peur que les grenades n'explosent. Mais rien.  
+
+Je me suis alors tournée vers le Général Hux. Autour de lui, beaucoup me regardaient étonnés.  
+\- Bien, Altesse Rey, fit-il avec un sourire en coin. Je vous félicite pour ce numéro. Mais je suis désolé de vous apprendre que ces deux portes sont soudées. Et qu'il ne faut pas les ouvrir. Car leur système de sécurité ne marche pl...  
+\- Général Hux ! Ordonnez à des hommes de rouvrir ces portes ! Et mettez deux hommes devant ! À la moindre alerte, ils pourront les fermer !  
+\- Altesse Rey, c'est une soudure très complexe. Il faudra des heures pour la défaire. Il sera trop tard, m'indiqua-t-il en se retournant pour partir et me montrer qu'il négligeait mes remarques.  
+
+Il fallait encore que j'impose mon autorité. Mon bras se tendit. Et il frôla mon sabre-laser. Cela me donna une idée.
+Je pris mon sabre-laser à la main et l'alluma. Me dirigeant vers les portes, je pus apercevoir que le Général Hux avait arrêté de marcher et avait tourné la tête vers moi.  
+Je me suis mise devant les portes et, au milieu, je fis pénétrer mon sabre-laser dans la soudure. J'espérais au plus profond de moi-même que cela marcherait. Sans quoi ceci n'aurait servit à rien. Et mes actions apparaîtraient comme ridicules. Mais il le fallait.  
+Les soudures commençaient à rougir au contact du sabre-laser. J'ai alors déplacé celui-ci. Et petit à petit, toute la soudure devint rouge.  
+
+J'ai tourné la tête. Je vis que le Général Hux me regardait. D'autres hommes stupéfaits aussi.  
+\- Vous quatre ! ordonnai-je à des Stormtroopers. Venez ouvrir les portes. Et maintenez-les ouvertes.  
+Le Général Hux n'intervint pas. Mais il serrait les dents. Et il avait un regard noir comme je n'avais jamais vu.
+Les quatre hommes s'empressèrent d'ouvrir les portes. Puis les matériaux refroidirent et reprirent leur couleurs originales.  
+\- Bien, fis-je aux soldats. Restez devant ces portes. Et en cas de problèmes, si les autres portes se ferment automatiquement, fermez-les aussi. de l'intérieur.  
+\- Oui, Altesse Rey, me répondirent-ils en se mettant au garde-à-vous.  
+J'ai jeté un coup d’œil au Général Hux et suis rentrée dans ce couloir. Je sentais que ce ne serait pas facile avec lui.  

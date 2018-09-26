@@ -1,0 +1,13 @@
+The files .md (markdown) are similar to .txt (text). But they are improved in presentation.
+
+You can open them with:
+- your web browser (and an extension to read markdown)
+- a text editor, but without presentation
+
+-------------------------------------------------------------------------------------------------------------
+
+Les fichiers .md (markdown) sont similaires aux fichiers .txt (texte), avec une amélioration de présentation.
+
+Vous pouvez les ouvrir avec:
+- votre navigateur internet (et une extension pour lire le format markdown)
+- un éditeur de texte, mais sans la présentation proposée par le .md
